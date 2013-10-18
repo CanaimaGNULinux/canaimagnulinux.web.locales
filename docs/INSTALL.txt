@@ -1,0 +1,17 @@
+Installation
+------------
+
+To enable this product in a buildout-based installation:
+
+1. Edit your buildout.cfg and add ``canaimagnulinux.web.locales`` to the list of eggs to
+   install::
+
+    [buildout]
+    ...
+    eggs =
+        canaimagnulinux.web.locales
+    zcml =
+    	canaimagnulinux.web.locales
+
+After updating the configuration you need to run ''bin/buildout'', which will
+take care of updating your system.

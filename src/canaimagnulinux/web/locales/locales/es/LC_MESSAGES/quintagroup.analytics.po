@@ -1,0 +1,238 @@
+# Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: Quintagroup Analytics\n"
+"POT-Creation-Date: 2012-04-05 08:00+0000\n"
+"PO-Revision-Date: 2013-10-18 19:06-0430\n"
+"Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
+"Language-Team: ES <LL@li.org>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
+"Language-Code: es\n"
+"Language-Name: Spanish\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Domain: quintagroup.analytics\n"
+"X-Is-Fallback-For: es-ar es-bo es-cl es-co es-cr es-do es-ec es-es es-sv es-"
+"gt es-hn es-mx es-ni es-pa es-py es-pe es-pr es-us es-uy es-ve\n"
+
+#: quintagroup.analytics/quintagroup/analytics/browser/views.py:202
+msgid "Content ownership by state"
+msgstr ""
+
+#: quintagroup.analytics/quintagroup/analytics/browser/views.py:110
+msgid "Content ownership by type"
+msgstr ""
+
+#: quintagroup.analytics/quintagroup/analytics/browser/views.py:294
+msgid "Content type by state"
+msgstr ""
+
+#: quintagroup.analytics/quintagroup/analytics/browser/views.py:28
+msgid "Legacy portlets"
+msgstr ""
+
+#: quintagroup.analytics/quintagroup/analytics/browser/views.py:23
+msgid "Overview"
+msgstr "Resumen"
+
+#: quintagroup.analytics/quintagroup/analytics/browser/views.py:25
+msgid "Ownership by state"
+msgstr "Dueño por estado"
+
+#: quintagroup.analytics/quintagroup/analytics/browser/views.py:24
+msgid "Ownership by type"
+msgstr "Dueño por tipo"
+
+#: quintagroup.analytics/quintagroup/analytics/browser/views.py:27
+msgid "Portlets stats"
+msgstr "Estadísticas de Portlets"
+
+#: quintagroup.analytics/quintagroup/analytics/browser/views.py:29
+msgid "Properties stats"
+msgstr "Estadísticas de propiedades"
+
+#: quintagroup.analytics/quintagroup/analytics/browser/views.py:26
+msgid "Types by state"
+msgstr "Tipos por estado"
+
+#. Default: "Search depth (-1 means no limit, 1 means that objects in the site root only will be searched):"
+#: quintagroup.analytics/quintagroup/analytics/browser/legacy_portlets.pt:22
+msgid "lg_form_helper"
+msgstr ""
+
+#. Default: "The following chart displays workflow states of site's content objects in relation to their owners (up to 10 most active site content contributors are displayed)."
+#: quintagroup.analytics/quintagroup/analytics/browser/ownership_by_state.pt:18
+msgid "navigation_paragraph_own_by_state_desc"
+msgstr ""
+
+#. Default: "The following list can display site's legacy portlets, assigned as left and right slots on different site contexts. Specify the search depth: portlets on what level(s) to be included. Select CSV to render this information in .csv format."
+#: quintagroup.analytics/quintagroup/analytics/browser/legacy_portlets.pt:18
+msgid "navigation_paragraph_portlets_desc"
+msgstr ""
+
+#. Default: "The table under the chart displays number of content objects in all site's workflow states in relation to content owners."
+#: quintagroup.analytics/quintagroup/analytics/browser/ownership_by_state.pt:20
+msgid "own_by_state_desc"
+msgstr ""
+
+#. Default: "The following chart displays the most frequently created content types in relation to their owners (up to 10 most active site content contributors and up to 10 most popular content types are displayed)."
+#: quintagroup.analytics/quintagroup/analytics/browser/ownership_by_type.pt:18
+msgid "own_by_type_desc1"
+msgstr ""
+
+#. Default: "The table under the chart displays number of content objects of all site's content types in relation to their owners. Besides, the total number of created objects by every contributor is provided."
+#: quintagroup.analytics/quintagroup/analytics/browser/ownership_by_type.pt:22
+msgid "own_by_type_desc2"
+msgstr ""
+
+#. Default: "The following list can displays site's portlets, assigned to left and right columns on different contexts. Specify the search depth: portlets on what level(s) to be included. Click on the porltet title to land on the porltet edit form. Select CSV to render this information in .csv format."
+#: quintagroup.analytics/quintagroup/analytics/browser/portlets_stats.pt:19
+msgid "portlets_stats_desc"
+msgstr ""
+
+#. Default: "Search depth (-1 means no limit, 1 means that objects in the site root only will be searched):"
+#: quintagroup.analytics/quintagroup/analytics/browser/portlets_stats.pt:23
+msgid "portlets_stats_form_desc"
+msgstr ""
+
+#. Default: "The following list can display values for certain property for site objects. To generate the list - specify the search depth (objects on what level(s) will be included) and type in property name (a list of all available properties is provided below). For example: to display all site objects titles type '-1' into 'Search depth' field and 'title' into 'Property name' field. Select CSV to render this information in .csv format."
+#: quintagroup.analytics/quintagroup/analytics/browser/properties_stats.pt:19
+msgid "prop_stats_desc"
+msgstr ""
+
+#. Default: "Search depth (-1 means no limit, 1 means that objects in the site root only will be searched):"
+#: quintagroup.analytics/quintagroup/analytics/browser/properties_stats.pt:26
+msgid "prop_stats_form_desc"
+msgstr ""
+
+#. Default: "Quintagroup Analytics Tool for Plone"
+#: quintagroup.analytics/quintagroup/analytics/browser/legacy_portlets.pt:12
+#: quintagroup.analytics/quintagroup/analytics/browser/ownership_by_state.pt:11
+#: quintagroup.analytics/quintagroup/analytics/browser/ownership_by_type.pt:11
+msgid "qa_main_title"
+msgstr "Herramienta de Analytics de Quintagroup para Plone"
+
+#. Default: "Quintagroup Analytics Tool provides statistic information about your Plone site. You can see how many content objects are on you site, who are content owners, what are content workflow states, and how many portlets are assigned on different contexts."
+#: quintagroup.analytics/quintagroup/analytics/browser/qa_overview.pt:18
+msgid "qa_overview_paragraph_desc1"
+msgstr ""
+
+#. Default: "Information provided by Quintagroup Analytics Tool allows you to see your site's overall content from different perspectives. This can be very useful while migrating your site into newer Plone version, or into another CMS. With its help you can visually audit the content setup in Plone site before migration and compare it with the migrated website structure."
+#: quintagroup.analytics/quintagroup/analytics/browser/qa_overview.pt:22
+msgid "qa_overview_paragraph_desc2"
+msgstr ""
+
+#. Default: "Visit the following pages to see your site's statistics:"
+#: quintagroup.analytics/quintagroup/analytics/browser/qa_overview.pt:27
+msgid "qa_overview_paragraph_visit"
+msgstr ""
+
+#. Default: "Welcome to Quintagroup Analytics Tool"
+#: quintagroup.analytics/quintagroup/analytics/browser/qa_overview.pt:17
+msgid "qa_overview_subtitle_welcome"
+msgstr "Bienvenido a la herramienta de Analytics de Quintagroup"
+
+#. Default: "Content Ownership by State"
+#: quintagroup.analytics/quintagroup/analytics/browser/qa_overview.pt:35
+msgid "qa_overview_visits_link_content_by_state"
+msgstr ""
+
+#. Default: "Information about site's content workflow states. Here you can see how many content object are published/submitted for review/etc. and their owners."
+#: quintagroup.analytics/quintagroup/analytics/browser/qa_overview.pt:37
+msgid "qa_overview_visits_link_content_by_state_desc"
+msgstr ""
+
+#. Default: "Content Ownership by Type"
+#: quintagroup.analytics/quintagroup/analytics/browser/qa_overview.pt:30
+msgid "qa_overview_visits_link_content_by_type"
+msgstr ""
+
+#. Default: "Information about most popular content types on your site. Here you can see the most frequently created content types on your site and their owners."
+#: quintagroup.analytics/quintagroup/analytics/browser/qa_overview.pt:32
+msgid "qa_overview_visits_link_content_by_type_desc"
+msgstr ""
+
+#. Default: "Content Types by State"
+#: quintagroup.analytics/quintagroup/analytics/browser/qa_overview.pt:40
+msgid "qa_overview_visits_link_content_types_by_state"
+msgstr "Tipos de Contenidos por Estado"
+
+#. Default: "Information about site's most frequently created content types and their workflow states."
+#: quintagroup.analytics/quintagroup/analytics/browser/qa_overview.pt:42
+msgid "qa_overview_visits_link_content_types_by_state_desc"
+msgstr ""
+
+#. Default: "Legacy Portlets"
+#: quintagroup.analytics/quintagroup/analytics/browser/qa_overview.pt:49
+msgid "qa_overview_visits_link_legacy_portlets"
+msgstr ""
+
+#. Default: "Information about legacy portlets assigned throughout site sections. This information can be exported into .csv format."
+#: quintagroup.analytics/quintagroup/analytics/browser/qa_overview.pt:51
+msgid "qa_overview_visits_link_legacy_portlets_desc"
+msgstr ""
+
+#. Default: "Site Portlets"
+#: quintagroup.analytics/quintagroup/analytics/browser/qa_overview.pt:44
+msgid "qa_overview_visits_link_portlets"
+msgstr "Portlets del Sitio"
+
+#. Default: "Information about site portlets assigned throughout site sections. This information can be exported into .csv format."
+#: quintagroup.analytics/quintagroup/analytics/browser/qa_overview.pt:46
+msgid "qa_overview_visits_link_portlets_desc"
+msgstr ""
+
+#. Default: "Properties Stats"
+#: quintagroup.analytics/quintagroup/analytics/browser/qa_overview.pt:54
+msgid "qa_overview_visits_link_properties"
+msgstr ""
+
+#. Default: "Information on certain property values for all site objects."
+#: quintagroup.analytics/quintagroup/analytics/browser/qa_overview.pt:56
+msgid "qa_overview_visits_link_properties_desc"
+msgstr ""
+
+#. Default: "doesn't exist"
+#: quintagroup.analytics/quintagroup/analytics/browser/legacy_portlets.pt:61
+#: quintagroup.analytics/quintagroup/analytics/browser/portlets_stats.pt:77
+#: quintagroup.analytics/quintagroup/analytics/browser/properties_stats.pt:71
+msgid "span_doesnt_exist"
+msgstr "no existe"
+
+#. Default: "None"
+#: quintagroup.analytics/quintagroup/analytics/browser/properties_stats.pt:54
+msgid "span_none"
+msgstr "Ninguno"
+
+#. Default: "Expressions"
+#: quintagroup.analytics/quintagroup/analytics/browser/legacy_portlets.pt:75
+#: quintagroup.analytics/quintagroup/analytics/browser/properties_stats.pt:79
+msgid "table_header_expressions"
+msgstr "Expresiones"
+
+#. Default: "left_slots"
+#: quintagroup.analytics/quintagroup/analytics/browser/legacy_portlets.pt:52
+#: quintagroup.analytics/quintagroup/analytics/browser/portlets_stats.pt:57
+msgid "table_header_left_slots"
+msgstr ""
+
+#. Default: "right_slots"
+#: quintagroup.analytics/quintagroup/analytics/browser/legacy_portlets.pt:53
+#: quintagroup.analytics/quintagroup/analytics/browser/portlets_stats.pt:58
+msgid "table_header_right_slots"
+msgstr ""
+
+#. Default: "Total"
+#: quintagroup.analytics/quintagroup/analytics/browser/legacy_portlets.pt:71
+#: quintagroup.analytics/quintagroup/analytics/browser/properties_stats.pt:75
+msgid "table_header_total"
+msgstr "Total"
+
+#. Default: "The following chart and table display workflow states of the site's most frequently created content types. You can see the total number of site's content objects of every content type."
+#: quintagroup.analytics/quintagroup/analytics/browser/type_by_state.pt:19
+msgid "type_by_state_desc"
+msgstr ""
