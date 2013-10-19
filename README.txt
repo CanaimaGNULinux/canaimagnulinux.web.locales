@@ -46,5 +46,6 @@ https://github.com/canaimagnulinux/canaimagnulinux.web.locales/contributors
 
 .. _`sitio web del proyecto Canaima GNU/Linux`: http://canaima.softwarelibre.gob.ve/
 .. _`localizaciones`: http://es.wikipedia.org/wiki/Internacionalización_y_localización
+.. _`quintagroup.analytics`: https://pypi.python.org/pypi/quintagroup.analytics
 .. _`collective.nitf`: https://github.com/collective/collective.nitf
 .. _`repositorio CanaimaGNULinux`: https://github.com/CanaimaGNULinux/canaimagnulinux.web.locales
