@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Quintagroup Analytics\n"
 "POT-Creation-Date: 2012-04-05 08:00+0000\n"
-"PO-Revision-Date: 2013-10-18 19:06-0430\n"
+"PO-Revision-Date: 2013-10-19 11:29-0430\n"
 "Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
 "Language-Team: ES <LL@li.org>\n"
 "Language: es\n"
@@ -16,24 +16,23 @@ msgstr ""
 "Language-Name: Spanish\n"
 "Preferred-Encodings: utf-8 latin1\n"
 "Domain: quintagroup.analytics\n"
-"X-Is-Fallback-For: es-ar es-bo es-cl es-co es-cr es-do es-ec es-es es-sv es-"
-"gt es-hn es-mx es-ni es-pa es-py es-pe es-pr es-us es-uy es-ve\n"
+"X-Is-Fallback-For: es-ar es-bo es-cl es-co es-cr es-do es-ec es-es es-sv es-gt es-hn es-mx es-ni es-pa es-py es-pe es-pr es-us es-uy es-ve\n"
 
 #: quintagroup.analytics/quintagroup/analytics/browser/views.py:202
 msgid "Content ownership by state"
-msgstr ""
+msgstr "Dueño de contenido por estado"
 
 #: quintagroup.analytics/quintagroup/analytics/browser/views.py:110
 msgid "Content ownership by type"
-msgstr ""
+msgstr "Dueño de contenido por tipo"
 
 #: quintagroup.analytics/quintagroup/analytics/browser/views.py:294
 msgid "Content type by state"
-msgstr ""
+msgstr "Tipo de contenido por estado"
 
 #: quintagroup.analytics/quintagroup/analytics/browser/views.py:28
 msgid "Legacy portlets"
-msgstr ""
+msgstr "Portlets Legacy"
 
 #: quintagroup.analytics/quintagroup/analytics/browser/views.py:23
 msgid "Overview"
@@ -129,7 +128,7 @@ msgstr ""
 #. Default: "Visit the following pages to see your site's statistics:"
 #: quintagroup.analytics/quintagroup/analytics/browser/qa_overview.pt:27
 msgid "qa_overview_paragraph_visit"
-msgstr ""
+msgstr "Visita las siguientes paginas para ver las estadísticas de su sitio:"
 
 #. Default: "Welcome to Quintagroup Analytics Tool"
 #: quintagroup.analytics/quintagroup/analytics/browser/qa_overview.pt:17
@@ -139,7 +138,7 @@ msgstr "Bienvenido a la herramienta de Analytics de Quintagroup"
 #. Default: "Content Ownership by State"
 #: quintagroup.analytics/quintagroup/analytics/browser/qa_overview.pt:35
 msgid "qa_overview_visits_link_content_by_state"
-msgstr ""
+msgstr "Dueño de Contenido por Estado"
 
 #. Default: "Information about site's content workflow states. Here you can see how many content object are published/submitted for review/etc. and their owners."
 #: quintagroup.analytics/quintagroup/analytics/browser/qa_overview.pt:37
@@ -149,7 +148,7 @@ msgstr ""
 #. Default: "Content Ownership by Type"
 #: quintagroup.analytics/quintagroup/analytics/browser/qa_overview.pt:30
 msgid "qa_overview_visits_link_content_by_type"
-msgstr ""
+msgstr "Dueño de Contenido por Tipo"
 
 #. Default: "Information about most popular content types on your site. Here you can see the most frequently created content types on your site and their owners."
 #: quintagroup.analytics/quintagroup/analytics/browser/qa_overview.pt:32
@@ -169,7 +168,7 @@ msgstr ""
 #. Default: "Legacy Portlets"
 #: quintagroup.analytics/quintagroup/analytics/browser/qa_overview.pt:49
 msgid "qa_overview_visits_link_legacy_portlets"
-msgstr ""
+msgstr "Portlets Legacy"
 
 #. Default: "Information about legacy portlets assigned throughout site sections. This information can be exported into .csv format."
 #: quintagroup.analytics/quintagroup/analytics/browser/qa_overview.pt:51
@@ -189,7 +188,7 @@ msgstr ""
 #. Default: "Properties Stats"
 #: quintagroup.analytics/quintagroup/analytics/browser/qa_overview.pt:54
 msgid "qa_overview_visits_link_properties"
-msgstr ""
+msgstr "Estadísticas de Propiedades"
 
 #. Default: "Information on certain property values for all site objects."
 #: quintagroup.analytics/quintagroup/analytics/browser/qa_overview.pt:56
@@ -218,13 +217,13 @@ msgstr "Expresiones"
 #: quintagroup.analytics/quintagroup/analytics/browser/legacy_portlets.pt:52
 #: quintagroup.analytics/quintagroup/analytics/browser/portlets_stats.pt:57
 msgid "table_header_left_slots"
-msgstr ""
+msgstr "Ubicación a la izquierda"
 
 #. Default: "right_slots"
 #: quintagroup.analytics/quintagroup/analytics/browser/legacy_portlets.pt:53
 #: quintagroup.analytics/quintagroup/analytics/browser/portlets_stats.pt:58
 msgid "table_header_right_slots"
-msgstr ""
+msgstr "Ubicación a la derecha"
 
 #. Default: "Total"
 #: quintagroup.analytics/quintagroup/analytics/browser/legacy_portlets.pt:71
