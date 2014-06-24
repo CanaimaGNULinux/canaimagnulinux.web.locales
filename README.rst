@@ -30,6 +30,21 @@ Descargas
 Usted puede encontrar la versión de desarrollo del paquete ``canaimagnulinux.web.locales``
 en el `repositorio CanaimaGNULinux`_ en GitHub.com.
 
+
+Sobre la calidad
+================
+
+.. image:: https://d2weczhvl823v0.cloudfront.net/CanaimaGNULinux/canaimagnulinux.web.locales/trend.png
+   :alt: Bitdeli badge
+   :target: https://bitdeli.com/free
+
+.. image:: https://travis-ci.org/CanaimaGNULinux/canaimagnulinux.web.locales.svg?branch=master
+   :alt: Travis-CI badge
+   :target: https://travis-ci.org/CanaimaGNULinux/canaimagnulinux.web.locales
+
+¿Tienes una idea?, ¿Encontraste un error? Háganos saber mediante la `apertura de un ticket de soporte`_.
+
+
 Autor(es) Original(es)
 ======================
 
@@ -49,9 +64,4 @@ https://github.com/canaimagnulinux/canaimagnulinux.web.locales/contributors
 .. _`quintagroup.analytics`: https://pypi.python.org/pypi/quintagroup.analytics
 .. _`collective.nitf`: https://github.com/collective/collective.nitf
 .. _`repositorio CanaimaGNULinux`: https://github.com/CanaimaGNULinux/canaimagnulinux.web.locales
-
-
-.. image:: https://d2weczhvl823v0.cloudfront.net/CanaimaGNULinux/canaimagnulinux.web.locales/trend.png
-   :alt: Bitdeli badge
-   :target: https://bitdeli.com/free
-
+.. _apertura de un ticket de soporte: https://github.com/CanaimaGNULinux/canaimagnulinux.web.locales/issues
