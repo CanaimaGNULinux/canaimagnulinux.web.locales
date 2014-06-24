@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Plone CMS\n"
 "POT-Creation-Date: 2013-12-20 16:22+0000\n"
-"PO-Revision-Date: 2014-06-23 04:26+0000\n"
-"Last-Translator: Flamel <flamelcanto@gmail.com>\n"
+"PO-Revision-Date: 2014-06-23 18:51+0000\n"
+"Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
 "Language-Team: Spanish (http://www.transifex.com/projects/p/plone/language/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -33,7 +33,7 @@ msgstr "Volver a configuraciones generales de Velruse"
 
 #: ../browser/plugin_config_view.pt:161
 msgid "Blacklist management"
-msgstr "Administracion de bloqueados"
+msgstr "Administración de bloqueados"
 
 #: ../browser/plugin_config_view.pt:129
 msgid "Blacklisted?"
@@ -49,7 +49,7 @@ msgstr "Cambios guardados"
 
 #: ../interfaces.py:44
 msgid "Connection timeout"
-msgstr "Conexion cancelada"
+msgstr "Conexión cancelada"
 
 #: ../browser/controlpanel.py:52
 msgid "Edit cancelled"
@@ -81,7 +81,7 @@ msgstr "No hay resultados"
 
 #: ../browser/controlpanel.pt:54
 msgid "PAS plugins configuration"
-msgstr "Configuración plugins PAS"
+msgstr "Configuración de plugins PAS"
 
 #: ../browser/plugin_config_view.pt:204
 msgid "Remove selected"
@@ -109,7 +109,7 @@ msgstr "Buscar usuarios en Velruse"
 
 #: ../browser/plugin_config.py:25
 msgid "Settings saved"
-msgstr "Configuracion guardada"
+msgstr "Configuración guardada"
 
 #: ../interfaces.py:25
 msgid "Site login enabled"
@@ -117,7 +117,7 @@ msgstr "Acceso al sitio activado"
 
 #: ../persistent.py:17
 msgid "URL or path"
-msgstr "URL o ruta"
+msgstr "Dirección URL o ruta"
 
 #: ../browser/plugin_config_view.pt:99
 msgid "Users management"
@@ -128,39 +128,39 @@ msgstr "Plugin de autenticación Velruse"
 
 #: ../interfaces.py:38
 msgid "Velruse backend"
-msgstr "Parte trasera Velruse"
+msgstr "Backend Velruse"
 
 #: ../browser/controlpanel.py:24 ../profiles/default/controlpanel.xml
 msgid "Velruse integration settings"
-msgstr "Configuracion de integracion Velruse"
+msgstr "Configuración de integración Velruse"
 
 #: ../skins/pas.plugins.velruse/login_form.cpt:92
 msgid "You can perform authentication with one of those services"
-msgstr "Puede intentar autenticarte con uno de estos servicios"
+msgstr "Puede intentar autenticarse con uno de estos servicios"
 
 #. Default: "If you deleted a blacklisted user you are not able to find it
 #. from the section above. Use this form for cleaning up old blacklisted
 #. entries"
 #: ../browser/plugin_config_view.pt:163
 msgid "blacklist_management_help"
-msgstr "Ayuda administración bloqueados"
+msgstr "Si ha eliminado un usuario en la lista negra, y no es capaces de encontrarlo en la sección anterior. Utilice este formulario para la limpieza de las entradas antiguas de la lista negra"
 
 #. Default: "A set of roles this plugin will automatically gives to
 #. authenticated members"
 #: ../browser/plugin_config_view.pt:79
 msgid "given_roles_help"
-msgstr "Ayuda asignando roles"
+msgstr "Un conjunto de roles de este plugin se dan automáticamente a los miembros autenticados"
 
 #. Default: "User roles"
 #: ../browser/plugin_config_view.pt:76
 msgid "given_roles_label"
-msgstr "Asignando roles"
+msgstr "Roles de usuarios"
 
 #. Default: "Provide a list of authentication services properly configured on
 #. the Velruse backend"
 #: ../interfaces.py:34
 msgid "help_activated_plugins"
-msgstr "Ayuda plugins activados"
+msgstr "Proporciona una lista de servicios de autenticación configurado correctamente en el backend Velruse"
 
 #. Default: "Max number of seconds to wait for Velruse backend response"
 #: ../interfaces.py:45
@@ -175,7 +175,7 @@ msgstr "Ayuda de ingreso al sitio activada"
 #. Default: "Configure how Plone talk with Velruse backend"
 #: ../browser/controlpanel.py:25
 msgid "help_velruse_settings_form"
-msgstr "Ayuda formulario configuración Velruse "
+msgstr "Configure cómo Plone hablar con Velruse backend"
 
 #. Default: "Authentication with other services is not available. Contact the
 #. site administrator."
@@ -191,7 +191,7 @@ msgstr "Ingresar al Sitio"
 #. Default: "Select a PAS plugin for managing it's configuration"
 #: ../browser/controlpanel.pt:68
 msgid "plugins-config-help"
-msgstr "Seleecione el plugin PAS para configurar la administración"
+msgstr "Seleccioné un plugin PAS para administrar su configuración"
 
 #. Default: "From this section you can search for users stored in this plugin.
 #. This mean: users that logged in using this Velruse backend. You can delete
@@ -199,17 +199,17 @@ msgstr "Seleecione el plugin PAS para configurar la administración"
 #. to authenticate anymore (can be useful to block spammer/trolling people)."
 #: ../browser/plugin_config_view.pt:101
 msgid "user_management_help"
-msgstr "Desde esta sección puede buscar usuarios almacenados en este plugin, Esto quiere decir que usuarios que han ingresado usando el plugin Velruse. Puede eliminar datos almacenados de los usuarios  y/o usuarios bloqueados. Usuarios bloqueados no serán capaces de autenticarse mas (útil para bloquear usuarios spam/troles)"
+msgstr "Desde esta sección puede buscar usuarios almacenados en este plugin, Esto quiere decir que usuarios que han ingresado usando el plugin Velruse. Puede eliminar datos almacenados de los usuarios  y/o usuarios bloqueados. Usuarios bloqueados no serán capaces de autenticarse mas (útil para bloquear usuarios spam/troles)."
 
 #. Default: "$count users deleted"
 #: ../browser/plugin_config.py:54
 msgid "users_delete_message"
-msgstr "Usuario Eliminado"
+msgstr "$count usuarios eliminados"
 
 #. Default: "Set the auth info path"
 #: ../browser/plugin_config_view.pt:64
 msgid "velruse_auth_info_path_help"
-msgstr "Revisa la ruta de la info sobre autenticación"
+msgstr "Revisa la ruta de la información sobre autenticación"
 
 #. Default: "Velruse auth info path"
 #: ../browser/plugin_config_view.pt:56
@@ -220,7 +220,7 @@ msgstr "Ruta de la información de Velruse"
 #. in the login form. Best format is 64x64px."
 #: ../persistent.py:25
 msgid "velruse_backend_icon_help"
-msgstr "Una ruta URL - tambien puede ser una ruta relativa-  a un icono para ser visualizado en el formulario de ingreso. Recomendado 64x64px."
+msgstr "Una dirección URL (también puede ser una ruta relativa) a un icono para ser visualizado en el formulario de ingreso. El tamaño recomendado 64x64px."
 
 #. Default: "The name of the social network/authentication service"
 #: ../persistent.py:13
@@ -231,7 +231,7 @@ msgstr "El nombre de la red social o servicio de autenticación."
 #. be properly configured in Velruse to call the remote service"
 #: ../persistent.py:18
 msgid "velruse_backend_url_help"
-msgstr "Una ruta URL - también puede ser una ruta relativa -  a Velruse. Esta ruta debe estar correctamente configurada en Velruse para conectarse al servicio remoto. "
+msgstr "Una dirección URL (también puede ser una ruta relativa) a Velruse. \\nEsta dirección URL debe estar correctamente configurada en Velruse para conectarse al servicio remoto."
 
 #. Default: "Login with..."
 #: ../skins/pas.plugins.velruse/login_form.cpt:85
@@ -241,7 +241,7 @@ msgstr "Conectarse con..."
 #. Default: "${plugin_name} Settings"
 #: ../browser/plugin_config_view.pt:25
 msgid "velruse_plugin_config"
-msgstr "Configuración del plugin "
+msgstr "Configuración ${plugin_name}"
 
 #. Default: "Set the server host address where Velruse is listening"
 #: ../browser/plugin_config_view.pt:42
