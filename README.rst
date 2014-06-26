@@ -68,7 +68,14 @@ https://github.com/canaimagnulinux/canaimagnulinux.web.locales/contributors
 
 .. _`sitio web del proyecto Canaima GNU/Linux`: http://canaima.softwarelibre.gob.ve/
 .. _`localizaciones`: http://es.wikipedia.org/wiki/Internacionalización_y_localización
+.. _`z3c.form`: https://pypi.python.org/pypi/z3c.form
+.. _`plone.app.ldap`: https://pypi.python.org/pypi/plone.app.ldap
+.. _`plone.app.caching`: https://pypi.python.org/pypi/plone.app.caching
+.. _`plone.app.dexterity`: https://pypi.python.org/pypi/plone.app.dexterity
+.. _`plone.app.caching`: https://pypi.python.org/pypi/plone.app.caching
 .. _`quintagroup.analytics`: https://pypi.python.org/pypi/quintagroup.analytics
 .. _`collective.nitf`: https://github.com/collective/collective.nitf
+.. _`collective.geo.settings`: https://pypi.python.org/pypi/collective.geo.settings
+.. _`pas.plugins.velruse`: https://pypi.python.org/pypi/pas.plugins.velruse
 .. _`repositorio CanaimaGNULinux`: https://github.com/CanaimaGNULinux/canaimagnulinux.web.locales
 .. _apertura de un ticket de soporte: https://github.com/CanaimaGNULinux/canaimagnulinux.web.locales/issues
