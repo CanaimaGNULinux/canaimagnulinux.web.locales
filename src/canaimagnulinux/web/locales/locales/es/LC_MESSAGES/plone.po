@@ -1,7 +1,7 @@
 # Héctor Velarde <hector.velarde@gmail.com>, 2012.
 msgid ""
 msgstr ""
-"Project-Id-Version: rnv.web.locales\n"
+"Project-Id-Version: canaimagnulinux.web.locales\n"
 "POT-Creation-Date: 2011-09-11 18:59+0000\n"
 "PO-Revision-Date: 2011-12-29 19:39-0600\n"
 "Last-Translator: Héctor Velarde <hector.velarde@gmail.com>\n"
