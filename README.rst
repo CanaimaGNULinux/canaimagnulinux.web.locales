@@ -1,5 +1,9 @@
 .. -*- coding: utf-8 -*-
 
+.. image:: https://d2weczhvl823v0.cloudfront.net/CanaimaGNULinux/canaimagnulinux.web.locales/trend.png
+   :alt: Bitdeli badge
+   :target: https://bitdeli.com/free
+
 .. contents:: Tabla de Contenidos
 
 Introducción
@@ -30,18 +34,6 @@ Descargas
 Usted puede encontrar la versión de desarrollo del paquete ``canaimagnulinux.web.locales``
 en el `repositorio CanaimaGNULinux`_ en GitHub.com.
 
-
-Sobre la calidad
-================
-
-.. image:: https://d2weczhvl823v0.cloudfront.net/CanaimaGNULinux/canaimagnulinux.web.locales/trend.png
-   :alt: Bitdeli badge
-   :target: https://bitdeli.com/free
-
-.. image:: https://travis-ci.org/CanaimaGNULinux/canaimagnulinux.web.locales.svg?branch=master
-   :alt: Travis-CI badge
-   :target: https://travis-ci.org/CanaimaGNULinux/canaimagnulinux.web.locales
-
 ¿Tienes una idea?, ¿Encontraste un error? Háganos saber mediante la `apertura de un ticket de soporte`_.
 
 
@@ -53,7 +45,9 @@ Autor(es) Original(es)
 Colaboraciones impresionantes
 =============================
 
-* Nombre Completo aka apodo
+* Flamel Canto aka flamelcanto
+
+* Jin Kadaba aka Unknown
 
 
 Para una lista actualizada de todo los colaboradores visite:
