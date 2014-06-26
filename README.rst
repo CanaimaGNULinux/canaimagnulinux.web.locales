@@ -19,8 +19,21 @@ Características
 - Contiene las localizaciones al Español Venezuela (es-VE) de los siguientes
   paquetes:
 
+  - Producto `z3c.form`_ para el dominio ``z3c.form``.
+
+  - Producto `plone.app.ldap`_ para el dominio ``plone.app.ldap``.
+
+  - Producto `plone.app.caching`_ para el dominio ``plone.app.caching``.
+
+  - Producto `plone.app.dexterity`_ para el dominio ``plone.app.dexterity``.
+
   - Producto `quintagroup.analytics`_ para el dominio ``quintagroup.analytics``.
+
   - Producto `collective.nitf`_ para los dominios ``collective.nitf`` y ``plone``.
+
+  - Producto `collective.geo.settings`_ para el dominio ``collective.geo.settings``.
+
+  - Producto `pas.plugins.velruse`_ para el dominio ``pas.plugins.velruse``.
 
 Instalación
 ===========
