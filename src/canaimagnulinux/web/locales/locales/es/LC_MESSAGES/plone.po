@@ -1,15 +1,25 @@
 # Héctor Velarde <hector.velarde@gmail.com>, 2012.
+# Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2014.
 msgid ""
 msgstr ""
 "Project-Id-Version: canaimagnulinux.web.locales\n"
 "POT-Creation-Date: 2011-09-11 18:59+0000\n"
 "PO-Revision-Date: 2011-12-29 19:39-0600\n"
-"Last-Translator: Héctor Velarde <hector.velarde@gmail.com>\n"
-"Language-Team: Spanish <https://github.com/collective>\n"
+"Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
+"Language-Team: ES <LL@li.org>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "Domain: plone\n"
+"Language-Code: es\n"
+"Language-Name: Spanish\n"
+"Language-Team: ES <LL@li.org>\n"
+"X-Generator: Virtaal 0.7.1\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Domain: plone\n"
+"X-Is-Fallback-For: es-ar es-bo es-cl es-co es-cr es-do es-ec es-es es-sv es-gt es-hn es-mx es-ni es-pa es-py es-pe es-pr es-us es-uy es-ve\n"
 
 #: collective/nitf/profiles/default/portal_atct.xml
 msgid "Author"
@@ -30,4 +40,353 @@ msgstr "El titular subordinado la nota"
 #: collective/nitf/profiles/default/portal_atct.xml
 msgid "Subtitle"
 msgstr "Antetítulo"
+
+########### PloneServicesCenter
+
+#. Default: "A company or organization that offers Plone services."
+#: ../profiles/default/types/Provider.xml
+msgid "A company or organization that offers Plone services."
+msgstr "Una compañía o organización que ofrece servicios con Plone."
+
+#. Default: "A link to media coverage of Plone."
+#: ../profiles/default/types/Buzz.xml
+msgid "A link to media coverage of Plone."
+msgstr "Un enlace a las coberturas de los medios de comunicación de Plone."
+
+#: ../profiles/default/workflows/public_workflow/definition.xml
+msgid "A publication workflow for Buzz and SiteUsingPlone objects"
+msgstr "Un flujo de trabajo de publicación para los objetos Buzz y SiteUsingPlone"
+
+#: ../profiles/default/workflows/plonenet_folder_workflow/definition.xml
+msgid "A publication workflow for BuzzFolder, CaseStudyFolder, ProviderFolder and SiteUsingPloneFolder objects"
+msgstr "Un flujo de trabajo de publicación para los objetos BuzzFolder, CaseStudyFolder, ProviderFolder y SiteUsingPloneFolder"
+
+#: ../profiles/default/workflows/plonenet_workflow/definition.xml
+msgid "A publication workflow for Plone.net content"
+msgstr "Un flujo de trabajo de publicación para los contenidos de Plone.net"
+
+#. Default: "A service that offers the Plone services companies or organizations."
+#: ../profiles/default/types/Services.xml
+msgid "A service that offers the Plone services companies or organizations."
+msgstr "Un servicio que ofrece la compañía de servicios de Plone o organización."
+
+#: ../profiles/default/types/BuzzFolder.xml
+msgid "Buzz Folder"
+msgstr "Carpeta de Coberturas en medios de comunicación"
+
+#: ../profiles/default/types/CaseStudyFolder.xml
+msgid "Case Study Folder"
+msgstr "Carpeta de Casos de estudio"
+
+#. Default: "Case study"
+#: ../profiles/default/types/CaseStudy.xml
+msgid "Case study"
+msgstr "Caso de estudio"
+
+#: ../profiles/default/workflows/public_workflow/definition.xml
+#: ../profiles/default/workflows/supporter_workflow/definition.xml
+msgid "Draft"
+msgstr "Borrador"
+
+#: ../profiles/default/workflows/plonenet_workflow/definition.xml
+msgid "Draft (not visible)"
+msgstr "Borrador (no visible)"
+
+#: ../profiles/default/workflows/plonenet_folder_workflow/definition.xml
+msgid "Every member can make this item private"
+msgstr "Cada miembro puede hacer este elemento privado"
+
+#: ../profiles/default/workflows/plonenet_folder_workflow/definition.xml
+msgid "Every member can make this item visible"
+msgstr "Cada miembro puede hacer este elemento visible"
+
+#: ../profiles/default/workflows/plonenet_folder_workflow/definition.xml
+msgid "Folder Workflow"
+msgstr "Flujo de trabajo de Carpeta"
+
+#. Default: "Folder for Plone buzz items."
+#: ../profiles/default/types/BuzzFolder.xml
+msgid "Folder for Plone buzz items."
+msgstr "Carpeta para Coberturas en medios de comunicación de Plone."
+
+#. Default: "Folder for Services."
+#: ../profiles/default/types/ServicesFolder.xml
+msgid "Folder for Services."
+msgstr "Carpeta para Servicios."
+
+#. Default: "Folder for case studies."
+#: ../profiles/default/types/CaseStudyFolder.xml
+msgid "Folder for case studies."
+msgstr "Carpeta para casos de estudios."
+
+#. Default: "Folder for providers."
+#: ../profiles/default/types/ProviderFolder.xml
+msgid "Folder for providers."
+msgstr "Carpeta para proveedores."
+
+#. Default: "Folder for sites using Plone."
+#: ../profiles/default/types/SiteUsingPloneFolder.xml
+msgid "Folder for sites using Plone."
+msgstr "Carpeta para sitios que usan Plone."
+
+#: ../profiles/default/workflows/plonenet_workflow/definition.xml
+#: ../profiles/default/workflows/public_workflow/definition.xml
+#: ../profiles/default/workflows/supporter_workflow/definition.xml
+msgid "If you submitted the item by mistake or want to perform additional edits, this will take it back."
+msgstr ""
+"Si envió el elemento por error, o desea realizar ediciones adicionales, esto "
+"lo retirará."
+
+#: ../profiles/default/workflows/plonenet_folder_workflow/definition.xml
+msgid "Make private"
+msgstr "Hacer privado"
+
+#: ../profiles/default/workflows/plonenet_folder_workflow/definition.xml
+msgid "Make this item private"
+msgstr "Hacer a este elemento privado"
+
+#: ../profiles/default/workflows/plonenet_folder_workflow/definition.xml
+#: ../profiles/default/workflows/supporter_workflow/definition.xml
+msgid "Make visible"
+msgstr "Hacer visible"
+
+#: ../profiles/default/workflows/supporter_workflow/definition.xml
+msgid "Manager suspends content"
+msgstr "Los administradores suspenden contenidos"
+
+#: ../profiles/default/workflows/supporter_workflow/definition.xml
+msgid "Managers can suspend this item content."
+msgstr "Los administradores puede suspender este elemento de contenido."
+
+#. Default: "Media Coverage"
+#: ../profiles/default/types/Buzz.xml
+msgid "Media Coverage"
+msgstr "Coberturas en medios de comunicación"
+
+#: ../profiles/default/workflows/supporter_workflow/definition.xml
+msgid "Member can makes this item content will be visible"
+msgstr "Los miembros puede hacer a este elemento sea visible"
+
+#: ../profiles/default/workflows/plonenet_folder_workflow/definition.xml
+msgid "Member makes content private"
+msgstr "Los miembros hacen que el contenido sea privado"
+
+#: ../profiles/default/workflows/plonenet_folder_workflow/definition.xml
+#: ../profiles/default/workflows/supporter_workflow/definition.xml
+msgid "Member makes content visible"
+msgstr "Los miembros hacen que el contenido sea visible"
+
+#: ../profiles/default/workflows/plonenet_workflow/definition.xml
+#: ../profiles/default/workflows/public_workflow/definition.xml
+#: ../profiles/default/workflows/supporter_workflow/definition.xml
+msgid "Member requests publishing"
+msgstr "Los miembros solicitan publicación"
+
+#: ../profiles/default/workflows/plonenet_folder_workflow/definition.xml
+#: ../profiles/default/workflows/plonenet_workflow/definition.xml
+#: ../profiles/default/workflows/public_workflow/definition.xml
+msgid "Member retracts submission"
+msgstr "Los miembros rechazan su envio"
+
+#: ../profiles/default/workflows/plonenet_folder_workflow/definition.xml
+msgid "Members can publish the items to reviewer users for his approbation"
+msgstr "Los miembros pueden publicar elementos para ser revisado por revisores"
+
+#: ../profiles/default/workflows/plonenet_folder_workflow/definition.xml
+msgid "Members can retract his submission"
+msgstr "Los miembros pueden rechazar su envio a publicación"
+
+#: ../profiles/default/workflows/plonenet_workflow/definition.xml
+#: ../profiles/default/workflows/public_workflow/definition.xml
+#: ../profiles/default/workflows/supporter_workflow/definition.xml
+msgid "Pending"
+msgstr "Pendiente"
+
+#: ../profiles/default/workflows/plonenet_workflow/definition.xml
+msgid "Plone.net content workflow"
+msgstr "Flujo de trabajo de contenidos para Plone.net"
+
+#: ../profiles/default/workflows/plonenet_folder_workflow/definition.xml
+msgid "Private"
+msgstr "Privado"
+
+#. Default: "Provider"
+#: ../profiles/default/types/Provider.xml
+msgid "Provider"
+msgstr "Proveedores"
+
+#: ../profiles/default/types/ProviderFolder.xml
+msgid "Provider Folder"
+msgstr "Carpeta de Proveedores"
+
+#: ../profiles/default/workflows/plonenet_folder_workflow/definition.xml
+msgid "Public Draft"
+msgstr "Borrador público"
+
+#: ../profiles/default/workflows/public_workflow/definition.xml
+msgid "Public Workflow"
+msgstr "Flujo de trabajo Público"
+
+#: ../profiles/default/workflows/plonenet_folder_workflow/definition.xml
+msgid "Public this item as a Draft"
+msgstr "Publicar este elemento como un Borrador"
+
+#: ../profiles/default/workflows/plonenet_folder_workflow/definition.xml
+#: ../profiles/default/workflows/plonenet_workflow/definition.xml
+#: ../profiles/default/workflows/public_workflow/definition.xml
+msgid "Publish"
+msgstr "Publicar"
+
+#: ../profiles/default/workflows/plonenet_folder_workflow/definition.xml
+#: ../profiles/default/workflows/plonenet_workflow/definition.xml
+#: ../profiles/default/workflows/public_workflow/definition.xml
+msgid "Published"
+msgstr "Publicado"
+
+#: ../profiles/default/workflows/plonenet_workflow/definition.xml
+#: ../profiles/default/workflows/public_workflow/definition.xml
+#: ../profiles/default/workflows/supporter_workflow/definition.xml
+msgid "Publishing the item makes it visible to other users."
+msgstr "Al publicar el elemento será visible para otros usuarios."
+
+#: ../profiles/default/workflows/plonenet_workflow/definition.xml
+#: ../profiles/default/workflows/public_workflow/definition.xml
+#: ../profiles/default/workflows/supporter_workflow/definition.xml
+msgid "Puts your item in a review queue, so it can be published on the site."
+msgstr ""
+"Pone su elemento en una cola de revisión, de forma que pueda ser publicado "
+"en el sitio."
+
+#: ../profiles/default/workflows/plonenet_workflow/definition.xml
+#: ../profiles/default/workflows/public_workflow/definition.xml
+#: ../profiles/default/workflows/supporter_workflow/definition.xml
+msgid "Reject"
+msgstr "Rechazar"
+
+#: ../profiles/default/workflows/plonenet_folder_workflow/definition.xml
+#: ../profiles/default/workflows/plonenet_workflow/definition.xml
+#: ../profiles/default/workflows/public_workflow/definition.xml
+msgid "Retract"
+msgstr "Retractar"
+
+#: ../profiles/default/workflows/plonenet_folder_workflow/definition.xml
+#: ../profiles/default/workflows/plonenet_workflow/definition.xml
+#: ../profiles/default/workflows/public_workflow/definition.xml
+msgid "Reviewer publishes content"
+msgstr "El revisor publica contenido"
+
+#: ../profiles/default/workflows/plonenet_workflow/definition.xml
+#: ../profiles/default/workflows/public_workflow/definition.xml
+#: ../profiles/default/workflows/supporter_workflow/definition.xml
+msgid "Reviewer rejects submission"
+msgstr "El revisor rechazan el envió"
+
+#: ../profiles/default/workflows/plonenet_workflow/definition.xml
+#: ../profiles/default/workflows/public_workflow/definition.xml
+#: ../profiles/default/workflows/supporter_workflow/definition.xml
+msgid "Sending the item back will return the item to the original author instead of publishing it. You should preferably include a reason for why it was not published."
+msgstr ""
+"Al retirar el elemento lo devolverá al autor original, en lugar de "
+"publicarlo. Sería deseable que incluyera una razón por la cual no ha sido "
+"publicado."
+
+#. Default: "Services"
+#: ../profiles/default/types/Services.xml
+msgid "Services"
+msgstr "Servicios"
+
+#. Default: "ServicesFolder"
+#: ../profiles/default/types/ServicesFolder.xml
+msgid "ServicesFolder"
+msgstr "Carpeta de servicios"
+
+#. Default: "Shows off a Plone site or project built for a customer."
+#: ../profiles/default/types/CaseStudy.xml
+msgid "Shows off a Plone site or project built for a customer."
+msgstr "Muestra un sitio Plone o proyecto construido para un cliente."
+
+#: ../profiles/default/types/SiteUsingPloneFolder.xml
+msgid "Site Using Plone Folder"
+msgstr "Carpeta de Sitios que usan Plone"
+
+#. Default: "Site using Plone"
+#: ../profiles/default/types/SiteUsingPlone.xml
+msgid "Site using Plone"
+msgstr "Sitios que usan Plone"
+
+#. Default: "Site using Plone. Not a full case study, but just a description and URL."
+#: ../profiles/default/types/SiteUsingPlone.xml
+msgid "Site using Plone. Not a full case study, but just a description and URL."
+msgstr "Sitios que usan Plone. No es un caso de estudio completo, pero solo una descripción y la dirección Web (URL)."
+
+#: ../profiles/default/workflows/plonenet_workflow/definition.xml
+#: ../profiles/default/workflows/public_workflow/definition.xml
+#: ../profiles/default/workflows/supporter_workflow/definition.xml
+msgid "Submit"
+msgstr "Enviar"
+
+#: ../profiles/default/workflows/supporter_workflow/definition.xml
+msgid "Supporter Workflow"
+msgstr "Flujo de trabajo de Proveedores de servicios"
+
+#: ../profiles/default/workflows/supporter_workflow/definition.xml
+msgid "Suspend"
+msgstr "Suspender"
+
+#: ../profiles/default/workflows/supporter_workflow/definition.xml
+msgid "Suspended"
+msgstr "Suspendido"
+
+#: ../profiles/default/workflows/plonenet_workflow/definition.xml
+msgid "This item is a Draft, but its not visible to everyone."
+msgstr "Este elemento es un borrador, pero no es visible para todos."
+
+#: ../profiles/default/workflows/plonenet_folder_workflow/definition.xml
+msgid "This item was Published"
+msgstr "Este elemento fue publicado"
+
+#: ../profiles/default/workflows/supporter_workflow/definition.xml
+msgid "This item was suspended."
+msgstr "Este elemento fue suspendido."
+
+#: ../profiles/default/workflows/public_workflow/definition.xml
+#: ../profiles/default/workflows/supporter_workflow/definition.xml
+msgid "Visible to everyone, but not approved by the reviewers."
+msgstr "Visible para todo el mundo, pero no aprobado por los revisores."
+
+#: ../profiles/default/workflows/plonenet_workflow/definition.xml
+#: ../profiles/default/workflows/public_workflow/definition.xml
+msgid "Visible to everyone, not editable by the owner."
+msgstr "Visible para todo el mundo, no editable por su propietario."
+
+#: ../profiles/default/workflows/plonenet_workflow/definition.xml
+#: ../profiles/default/workflows/public_workflow/definition.xml
+#: ../profiles/default/workflows/supporter_workflow/definition.xml
+msgid "Waiting to be reviewed, not editable by the owner."
+msgstr "Esperando a ser revisado, no editable por su propietario."
+
+#. Default: "All recent changes…"
+#: ../skins/plone_services_center/portlet_recent.pt:52
+msgid "box_more_recently_changed"
+msgstr "Todos los cambios recientes..."
+
+#. Default: "Recent Changes"
+#: ../skins/plone_services_center/portlet_recent.pt:15
+msgid "box_recent_changes"
+msgstr "Cambios recientes"
+
+#. Default: "${box_recent_changes_rss_img} <span>Subscribe to updates</span>"
+#: ../skins/plone_services_center/portlet_rss.pt:23
+msgid "box_recent_changes_title"
+msgstr "${box_recent_changes_rss_img} <span>Subscribir a actualizaciones</span>"
+
+#. Default: "No items changed yet."
+#: ../skins/plone_services_center/portlet_recent.pt:45
+msgid "box_recent_no_items"
+msgstr "No hay elementos cambiados."
+
+#. Default: "RSS Feed"
+#: ../skins/plone_services_center/portlet_rss.pt:12
+msgid "portlet_rss_title"
+msgstr "Canal RSS"
 

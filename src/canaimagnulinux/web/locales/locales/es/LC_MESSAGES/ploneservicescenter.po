@@ -1,0 +1,1605 @@
+# translation of PloneServicesCenter.po to Spanish
+# Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2008, 2029, 2010, 2011, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: PloneServicesCenter 0.2.7\n"
+"POT-Creation-Date: 2011-06-14 14:31+0000\n"
+"PO-Revision-Date: 2014-07-01 05:12-0430\n"
+"Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
+"Language-Team: ES <LL@li.org>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
+"Language-Code: es\n"
+"Language-Name: Spanish\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Domain: ploneservicescenter\n"
+"X-Is-Fallback-For: es-ar es-bo es-cl es-co es-cr es-do es-ec es-es es-sv es-"
+"gt es-hn es-mx es-ni es-pa es-py es-pe es-pr es-us es-uy es-ve\n"
+
+#: ../content/country.py:134
+msgid "Afghanistan"
+msgstr ""
+
+#: ../content/country.py:224
+msgid "Africa"
+msgstr "África"
+
+#: ../content/country.py:49
+msgid "Albania"
+msgstr ""
+
+#: ../content/country.py:225
+msgid "Algeria"
+msgstr ""
+
+#: ../content/country.py:167
+msgid "American Samoa"
+msgstr ""
+
+#: ../content/country.py:20
+msgid "Andorra"
+msgstr ""
+
+#: ../content/country.py:226
+msgid "Angola"
+msgstr ""
+
+#: ../content/country.py:198
+msgid "Anguilla"
+msgstr ""
+
+#: ../content/country.py:168
+msgid "Antarctica"
+msgstr ""
+
+#: ../content/country.py:199
+msgid "Antigua And Barbuda"
+msgstr ""
+
+#: ../content/country.py:92
+msgid "Argentina"
+msgstr ""
+
+#: ../content/country.py:64
+msgid "Armenia"
+msgstr ""
+
+#: ../content/country.py:200
+msgid "Aruba"
+msgstr ""
+
+#: ../content/country.py:166
+msgid "Australasia"
+msgstr ""
+
+#: ../content/country.py:169
+msgid "Australia"
+msgstr ""
+
+#: ../content/country.py:21
+msgid "Austria"
+msgstr ""
+
+#: ../content/country.py:65
+msgid "Azerbaijan"
+msgstr ""
+
+#: ../content/country.py:201
+msgid "Bahamas"
+msgstr ""
+
+#: ../content/country.py:109
+msgid "Bahrain"
+msgstr ""
+
+#: ../content/country.py:135
+msgid "Bangladesh"
+msgstr ""
+
+#: ../content/country.py:202
+msgid "Barbados"
+msgstr ""
+
+#: ../content/country.py:66
+msgid "Belarus"
+msgstr ""
+
+#: ../content/country.py:22
+msgid "Belgium"
+msgstr ""
+
+#: ../content/country.py:83
+msgid "Belize"
+msgstr ""
+
+#: ../content/country.py:227
+msgid "Benin"
+msgstr ""
+
+#: ../content/country.py:203
+msgid "Bermuda"
+msgstr ""
+
+#: ../content/country.py:136
+msgid "Bhutan"
+msgstr ""
+
+#: ../content/country.py:93
+msgid "Bolivia"
+msgstr ""
+
+#: ../content/country.py:50
+msgid "Bosnia And Herzegowina"
+msgstr ""
+
+#: ../content/country.py:228
+msgid "Botswana"
+msgstr ""
+
+#: ../content/country.py:229
+msgid "Bouvet Island"
+msgstr ""
+
+#: ../content/country.py:94
+msgid "Brazil"
+msgstr ""
+
+#: ../content/country.py:126
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: ../content/country.py:144
+msgid "Brunei Darussalam"
+msgstr ""
+
+#: ../content/country.py:51
+msgid "Bulgaria"
+msgstr ""
+
+#: ../content/country.py:230
+msgid "Burkina Faso"
+msgstr ""
+
+#: ../content/country.py:231
+msgid "Burundi"
+msgstr ""
+
+#: ../content/country.py:145
+msgid "Cambodia"
+msgstr ""
+
+#: ../content/country.py:232
+msgid "Cameroon"
+msgstr ""
+
+#: ../content/country.py:76
+msgid "Canada"
+msgstr ""
+
+#: ../content/country.py:233
+msgid "Cape Verde"
+msgstr ""
+
+#: ../content/country.py:197
+msgid "Caribbean"
+msgstr ""
+
+#: ../content/country.py:204
+msgid "Cayman Islands"
+msgstr ""
+
+#: ../content/country.py:234
+msgid "Central African Republic"
+msgstr ""
+
+#: ../content/country.py:82
+msgid "Central America"
+msgstr "America Central"
+
+#: ../content/country.py:125
+msgid "Central Asia"
+msgstr ""
+
+#: ../content/country.py:235
+msgid "Chad"
+msgstr ""
+
+#: ../content/country.py:95
+msgid "Chile"
+msgstr ""
+
+#: ../content/country.py:157
+msgid "China"
+msgstr ""
+
+#: ../content/country.py:170
+msgid "Christmas Island"
+msgstr ""
+
+#: ../content/country.py:171
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+#: ../content/country.py:96
+msgid "Colombia"
+msgstr ""
+
+#: ../content/country.py:236
+msgid "Comoros"
+msgstr ""
+
+#: ../content/country.py:237
+msgid "Congo, Democratic Republic Of (Was Zaire)"
+msgstr ""
+
+#: ../content/country.py:238
+msgid "Congo, People's Republic Of"
+msgstr ""
+
+#: ../content/country.py:172
+msgid "Cook Islands"
+msgstr ""
+
+#: ../content/country.py:84
+msgid "Costa Rica"
+msgstr ""
+
+#: ../content/country.py:239
+msgid "Cote D'ivoire"
+msgstr ""
+
+#: ../content/country.py:52
+msgid "Croatia (Local Name: Hrvatska)"
+msgstr ""
+
+#: ../content/country.py:205
+msgid "Cuba"
+msgstr ""
+
+#: ../content/country.py:110
+msgid "Cyprus"
+msgstr ""
+
+#: ../content/country.py:53
+msgid "Czech Republic"
+msgstr ""
+
+#: ../content/country.py:23
+msgid "Denmark"
+msgstr ""
+
+#: ../skins/plone_services_center/provider_view.pt:162
+msgid "Disclaimer: While the Plone Foundation performs a rudimentary background check on the content contributed to this site to make sure it is legitimate, it does not constitute any kind of endorsement nor responsibility for its accuracy. Use sound judgement when engaging in any business transaction, as you would anywhere else."
+msgstr ""
+"Renuncia: Si bien la Fundación Plone realiza una verificación de "
+"antecedentes rudimentario sobre el contenido contribuido a este sitio para "
+"asegurarse de que es legítimo, que no constituye ningún tipo de garantía ni "
+"responsabilidad por su exactitud. Use buen juicio al participar en cualquier "
+"transacción comercial, como lo haría con cualquier otro sitio."
+
+#: ../content/country.py:240
+msgid "Djibouti"
+msgstr ""
+
+#: ../content/country.py:206
+msgid "Dominica"
+msgstr ""
+
+#: ../content/country.py:207
+msgid "Dominican Republic"
+msgstr ""
+
+#: ../content/country.py:97
+msgid "Ecuador"
+msgstr ""
+
+#: ../content/country.py:241
+msgid "Egypt"
+msgstr ""
+
+#: ../content/country.py:85
+msgid "El Salvador"
+msgstr ""
+
+#: ../content/country.py:242
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: ../content/country.py:243
+msgid "Eritrea"
+msgstr ""
+
+#: ../content/country.py:67
+msgid "Estonia"
+msgstr ""
+
+#: ../content/country.py:244
+msgid "Ethiopia"
+msgstr ""
+
+#: ../content/country.py:48
+msgid "Europe (Central)"
+msgstr ""
+
+#: ../content/country.py:63
+msgid "Europe (Eastern)"
+msgstr ""
+
+#: ../content/country.py:19
+msgid "Europe (Western)"
+msgstr ""
+
+#: ../content/country.py:98
+msgid "Falkland Islands (Malvinas)"
+msgstr ""
+
+#: ../content/country.py:24
+msgid "Faroe Islands"
+msgstr ""
+
+#: ../content/country.py:173
+msgid "Fiji"
+msgstr ""
+
+#: ../content/country.py:25
+msgid "Finland"
+msgstr ""
+
+#: ../content/country.py:26
+msgid "France"
+msgstr ""
+
+#: ../content/country.py:99
+msgid "French Guiana"
+msgstr ""
+
+#: ../content/country.py:174
+msgid "French Polynesia"
+msgstr ""
+
+#: ../content/country.py:245
+msgid "French Southern Territories"
+msgstr ""
+
+#: ../content/country.py:246
+msgid "Gabon"
+msgstr ""
+
+#: ../content/country.py:247
+msgid "Gambia"
+msgstr ""
+
+#: ../content/country.py:68
+msgid "Georgia"
+msgstr ""
+
+#: ../content/country.py:27
+msgid "Germany"
+msgstr ""
+
+#: ../content/country.py:248
+msgid "Ghana"
+msgstr ""
+
+#: ../content/country.py:28
+msgid "Gibraltar"
+msgstr ""
+
+#: ../content/country.py:54
+msgid "Greece"
+msgstr ""
+
+#: ../content/country.py:29
+msgid "Greenland"
+msgstr ""
+
+#: ../content/country.py:208
+msgid "Grenada"
+msgstr ""
+
+#: ../content/country.py:209
+msgid "Guadeloupe"
+msgstr ""
+
+#: ../content/country.py:175
+msgid "Guam"
+msgstr ""
+
+#: ../content/country.py:86
+msgid "Guatemala"
+msgstr ""
+
+#: ../content/country.py:249
+msgid "Guinea"
+msgstr ""
+
+#: ../content/country.py:250
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: ../content/country.py:100
+msgid "Guyana"
+msgstr ""
+
+#: ../content/country.py:210
+msgid "Haiti"
+msgstr ""
+
+#: ../content/country.py:176
+msgid "Heard And Mc Donald Islands"
+msgstr ""
+
+#: ../skins/plone_services_center/notification_published.pt:19
+msgid "Hello, Congratulations, item '${title_item_published}' that you have submitted, has been published. ${title_item_published_absolute_url} Regards,"
+msgstr ""
+"Hola, \n"
+"\n"
+"Felicitaciones, el elemento  '${title_item_published}' que usted envío para publicar, ha sido publicado. ${title_item_published_absolute_url} \n"
+"Saludos,"
+
+#: ../skins/plone_services_center/notification_submitted.pt:18
+msgid "Hello, Item '${title_item_submitted}' is ready for review. ${title_item_submitted_absolute_url} Regards,"
+msgstr ""
+"Hola, \n"
+"\n"
+"El elemento  '${title_item_submitted}' está listo para su revisión.\n"
+" ${title_item_submitted_absolute_url}\n"
+"Saludos,"
+
+#: ../skins/plone_services_center/notification_rejected.pt:28
+msgid "Hello, You recently have submitted '${title_item_rejected}'. It has been rejected with the following message: ${title_item_rejected_comments} It has been rejected. It is very probably because you have not followed the guidelines: http://plone.net/guidelines (most common error is submitting a provider without adding sites). ${title_item_rejected_absolute_url} Regards,"
+msgstr ""
+"Hola, \n"
+"\n"
+"Usted recientemente había enviado el elemento '${title_item_submitted}'. Ese ha sido rechazado con el siguiente mensaje: ${title_item_rejected_comments}.\n"
+"\n"
+"Si ha sido rechazado, es muy probable por que no siguió las directrices : http://plone.net/guidelines (el más común error es enviar un proveedor sin sitios agregados).\n"
+"\n"
+"${title_item_rejected_absolute_url}\n"
+"Saludos,"
+
+#: ../content/country.py:87
+msgid "Honduras"
+msgstr ""
+
+#: ../content/country.py:158
+msgid "Hong Kong"
+msgstr ""
+
+#: ../content/country.py:55
+msgid "Hungary"
+msgstr ""
+
+#: ../content/country.py:30
+msgid "Iceland"
+msgstr ""
+
+#: ../content/country.py:137
+msgid "India"
+msgstr ""
+
+#: ../content/country.py:146
+msgid "Indonesia"
+msgstr ""
+
+#: ../skins/plone_services_center/provider_view.pt:17
+msgid "Info"
+msgstr "Información"
+
+#: ../content/country.py:111
+msgid "Iran (Islamic Republic Of)"
+msgstr ""
+
+#: ../content/country.py:112
+msgid "Iraq"
+msgstr ""
+
+#: ../content/country.py:31
+msgid "Ireland"
+msgstr ""
+
+#: ../content/country.py:113
+msgid "Israel"
+msgstr ""
+
+#: ../content/country.py:32
+msgid "Italy"
+msgstr ""
+
+#: ../content/country.py:211
+msgid "Jamaica"
+msgstr ""
+
+#: ../content/country.py:159
+msgid "Japan"
+msgstr ""
+
+#: ../content/country.py:114
+msgid "Jordan"
+msgstr ""
+
+#: ../content/country.py:127
+msgid "Kazakhstan"
+msgstr ""
+
+#: ../content/country.py:251
+msgid "Kenya"
+msgstr ""
+
+#: ../content/country.py:177
+msgid "Kiribati"
+msgstr ""
+
+#: ../content/country.py:160
+msgid "Korea, Democratic People's Republic Of"
+msgstr ""
+
+#: ../content/country.py:161
+msgid "Korea, Republic Of"
+msgstr ""
+
+#: ../content/country.py:115
+msgid "Kuwait"
+msgstr ""
+
+#: ../content/country.py:128
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: ../content/country.py:147
+msgid "Lao People's Democratic Republic"
+msgstr ""
+
+#: ../content/country.py:69
+msgid "Latvia"
+msgstr ""
+
+#: ../content/country.py:116
+msgid "Lebanon"
+msgstr ""
+
+#: ../content/country.py:252
+msgid "Lesotho"
+msgstr ""
+
+#: ../content/country.py:253
+msgid "Liberia"
+msgstr ""
+
+#: ../content/country.py:254
+msgid "Libyan Arab Jamahiriya"
+msgstr ""
+
+#: ../content/country.py:33
+msgid "Liechtenstein"
+msgstr ""
+
+#: ../content/country.py:70
+msgid "Lithuania"
+msgstr ""
+
+#: ../content/country.py:34
+msgid "Luxembourg"
+msgstr ""
+
+#: ../content/country.py:162
+msgid "Macau"
+msgstr ""
+
+#: ../content/country.py:56
+msgid "Macedonia, The Former Yugoslav Republic Of"
+msgstr ""
+
+#: ../content/country.py:255
+msgid "Madagascar"
+msgstr ""
+
+#: ../content/country.py:256
+msgid "Malawi"
+msgstr ""
+
+#: ../content/country.py:148
+msgid "Malaysia"
+msgstr ""
+
+#: ../content/country.py:138
+msgid "Maldives"
+msgstr ""
+
+#: ../content/country.py:257
+msgid "Mali"
+msgstr ""
+
+#: ../content/country.py:35
+msgid "Malta"
+msgstr ""
+
+#: ../content/country.py:178
+msgid "Marshall Islands"
+msgstr ""
+
+#: ../content/country.py:212
+msgid "Martinique"
+msgstr ""
+
+#: ../content/country.py:258
+msgid "Mauritania"
+msgstr ""
+
+#: ../content/country.py:259
+msgid "Mauritius"
+msgstr ""
+
+#: ../content/country.py:260
+msgid "Mayotte"
+msgstr ""
+
+#: ../content/country.py:77
+msgid "Mexico"
+msgstr ""
+
+#: ../content/country.py:179
+msgid "Micronesia, Federated States Of"
+msgstr ""
+
+#: ../content/country.py:108
+msgid "Middle East"
+msgstr ""
+
+#: ../content/country.py:71
+msgid "Moldova, Republic Of"
+msgstr ""
+
+#: ../content/country.py:36
+msgid "Monaco"
+msgstr ""
+
+#: ../content/country.py:163
+msgid "Mongolia"
+msgstr ""
+
+#: ../content/country.py:213
+msgid "Montserrat"
+msgstr ""
+
+#: ../content/country.py:261
+msgid "Morocco"
+msgstr ""
+
+#: ../content/country.py:262
+msgid "Mozambique"
+msgstr ""
+
+#: ../content/country.py:149
+msgid "Myanmar"
+msgstr ""
+
+#: ../content/country.py:263
+msgid "Namibia"
+msgstr ""
+
+#: ../content/country.py:180
+msgid "Nauru"
+msgstr ""
+
+#: ../content/country.py:139
+msgid "Nepal"
+msgstr ""
+
+#: ../content/country.py:37
+msgid "Netherlands"
+msgstr ""
+
+#: ../content/country.py:214
+msgid "Netherlands Antilles"
+msgstr ""
+
+#: ../content/country.py:181
+msgid "New Caledonia"
+msgstr ""
+
+#: ../content/country.py:182
+msgid "New Zealand"
+msgstr ""
+
+#: ../content/country.py:88
+msgid "Nicaragua"
+msgstr ""
+
+#: ../content/country.py:264
+msgid "Niger"
+msgstr ""
+
+#: ../content/country.py:265
+msgid "Nigeria"
+msgstr ""
+
+#: ../content/country.py:183
+msgid "Niue"
+msgstr ""
+
+#: ../content/country.py:184
+msgid "Norfolk Island"
+msgstr ""
+
+#: ../content/country.py:75
+msgid "North America"
+msgstr "America del Norte"
+
+#: ../content/country.py:156
+msgid "North East Asia"
+msgstr ""
+
+#: ../content/country.py:185
+msgid "Northern Mariana Islands"
+msgstr ""
+
+#: ../content/country.py:38
+msgid "Norway"
+msgstr ""
+
+#: ../content/country.py:117
+msgid "Oman"
+msgstr ""
+
+#: ../content/country.py:140
+msgid "Pakistan"
+msgstr ""
+
+#: ../content/country.py:186
+msgid "Palau"
+msgstr ""
+
+#: ../content/country.py:89
+msgid "Panama"
+msgstr ""
+
+#: ../content/country.py:187
+msgid "Papua New Guinea"
+msgstr ""
+
+#: ../content/country.py:101
+msgid "Paraguay"
+msgstr ""
+
+#: ../content/country.py:102
+msgid "Peru"
+msgstr ""
+
+#: ../content/country.py:150
+msgid "Philippines"
+msgstr ""
+
+#: ../content/country.py:188
+msgid "Pitcairn"
+msgstr ""
+
+#. Default: "Plone Foundation Premium Sponsor"
+#: ../skins/plone_services_center/by-country.pt:106
+#: ../skins/plone_services_center/provider_view.pt:33
+msgid "Plone Foundation Premium Sponsor"
+msgstr "Patrocinador Premium de la Fundación Plone"
+
+#. Default: "Plone Foundation Sponsor"
+#: ../skins/plone_services_center/by-country.pt:154
+#: ../skins/plone_services_center/provider_view.pt:31
+msgid "Plone Foundation Sponsor"
+msgstr "Patrocinador de la Fundación Plone"
+
+#: ../content/country.py:57
+msgid "Poland"
+msgstr ""
+
+#: ../content/country.py:39
+msgid "Portugal"
+msgstr ""
+
+#: ../content/Provider.py:113
+msgid "Provided Services"
+msgstr "Proveedores de servicios"
+
+#: ../content/country.py:215
+msgid "Puerto Rico"
+msgstr ""
+
+#: ../content/country.py:118
+msgid "Qatar"
+msgstr ""
+
+#: ../content/country.py:266
+msgid "Reunion"
+msgstr ""
+
+#: ../content/country.py:58
+msgid "Romania"
+msgstr ""
+
+#: ../content/country.py:72
+msgid "Russian Federation"
+msgstr ""
+
+#: ../content/country.py:267
+msgid "Rwanda"
+msgstr ""
+
+#: ../content/country.py:216
+msgid "Saint Kitts And Nevis"
+msgstr ""
+
+#: ../content/country.py:217
+msgid "Saint Lucia"
+msgstr ""
+
+#: ../content/country.py:218
+msgid "Saint Vincent And The Grenadines"
+msgstr ""
+
+#: ../content/country.py:189
+msgid "Samoa"
+msgstr ""
+
+#: ../content/country.py:40
+msgid "San Marino"
+msgstr ""
+
+#: ../content/country.py:268
+msgid "Sao Tome And Principe"
+msgstr ""
+
+#: ../content/country.py:119
+msgid "Saudi Arabia"
+msgstr ""
+
+#: ../content/Provider.py:114
+msgid "Select all the services the provider offers."
+msgstr "Seleccionar todos los servicios que el proveedor ofrece."
+
+#: ../content/country.py:269
+msgid "Senegal"
+msgstr ""
+
+#: ../content/country.py:59
+msgid "Serbia"
+msgstr ""
+
+#: ../content/country.py:270
+msgid "Seychelles"
+msgstr ""
+
+#: ../content/country.py:271
+msgid "Sierra Leone"
+msgstr ""
+
+#: ../content/country.py:151
+msgid "Singapore"
+msgstr ""
+
+#: ../content/country.py:60
+msgid "Slovakia (Slovak Republic)"
+msgstr ""
+
+#: ../content/country.py:61
+msgid "Slovenia"
+msgstr ""
+
+#: ../content/country.py:190
+msgid "Solomon Islands"
+msgstr ""
+
+#: ../content/country.py:272
+msgid "Somalia"
+msgstr ""
+
+#: ../content/Services.py:101
+msgid "Sort Expression"
+msgstr "Expresión Ordenar"
+
+#: ../content/country.py:273
+msgid "South Africa"
+msgstr ""
+
+#: ../content/country.py:91
+msgid "South America"
+msgstr "America del Sur"
+
+#: ../content/country.py:133
+msgid "South Asia"
+msgstr ""
+
+#: ../content/country.py:143
+msgid "South East Asia"
+msgstr ""
+
+#: ../content/country.py:103
+msgid "South Georgia And The South Sandwich Islands"
+msgstr ""
+
+#: ../content/country.py:41
+msgid "Spain"
+msgstr ""
+
+#: ../content/country.py:141
+msgid "Sri Lanka"
+msgstr ""
+
+#: ../content/country.py:274
+msgid "St. Helena"
+msgstr ""
+
+#: ../content/country.py:78
+msgid "St. Pierre And Miquelon"
+msgstr ""
+
+#: ../content/country.py:275
+msgid "Sudan"
+msgstr ""
+
+#: ../content/country.py:104
+msgid "Suriname"
+msgstr ""
+
+#: ../content/country.py:42
+msgid "Svalbard And Jan Mayen Islands"
+msgstr ""
+
+#: ../content/country.py:276
+msgid "Swaziland"
+msgstr ""
+
+#: ../content/country.py:43
+msgid "Sweden"
+msgstr ""
+
+#: ../content/country.py:44
+msgid "Switzerland"
+msgstr ""
+
+#: ../content/country.py:120
+msgid "Syrian Arab Republic"
+msgstr ""
+
+#: ../content/country.py:164
+msgid "Taiwan"
+msgstr ""
+
+#: ../content/country.py:129
+msgid "Tajikistan"
+msgstr ""
+
+#: ../content/country.py:277
+msgid "Tanzania, United Republic Of"
+msgstr ""
+
+#: ../content/country.py:152
+msgid "Thailand"
+msgstr ""
+
+#: ../content/country.py:153
+msgid "Timor-Leste"
+msgstr ""
+
+#: ../content/country.py:278
+msgid "Togo"
+msgstr ""
+
+#: ../content/country.py:191
+msgid "Tokelau"
+msgstr ""
+
+#: ../content/country.py:192
+msgid "Tonga"
+msgstr ""
+
+#: ../content/country.py:219
+msgid "Trinidad And Tobago"
+msgstr ""
+
+#: ../content/country.py:279
+msgid "Tunisia"
+msgstr ""
+
+#: ../content/country.py:121
+msgid "Turkey"
+msgstr ""
+
+#: ../content/country.py:130
+msgid "Turkmenistan"
+msgstr ""
+
+#: ../content/country.py:220
+msgid "Turks And Caicos Islands"
+msgstr ""
+
+#: ../content/country.py:193
+msgid "Tuvalu"
+msgstr ""
+
+#: ../content/country.py:280
+msgid "Uganda"
+msgstr ""
+
+#: ../content/country.py:73
+msgid "Ukraine"
+msgstr ""
+
+#: ../content/country.py:122
+msgid "United Arab Emirates"
+msgstr ""
+
+#: ../content/country.py:45
+msgid "United Kingdom"
+msgstr ""
+
+#: ../content/country.py:79
+msgid "United States"
+msgstr ""
+
+#: ../content/country.py:80
+msgid "United States Minor Outlying Islands"
+msgstr ""
+
+#: ../content/country.py:105
+msgid "Uruguay"
+msgstr ""
+
+#: ../content/country.py:131
+msgid "Uzbekistan"
+msgstr ""
+
+#: ../content/country.py:194
+msgid "Vanuatu"
+msgstr ""
+
+#: ../content/country.py:46
+msgid "Vatican City State (Holy See)"
+msgstr ""
+
+#: ../content/country.py:106
+msgid "Venezuela"
+msgstr ""
+
+#: ../content/country.py:154
+msgid "Viet Nam"
+msgstr ""
+
+#: ../content/country.py:221
+msgid "Virgin Islands (British)"
+msgstr ""
+
+#: ../content/country.py:222
+msgid "Virgin Islands (U.S.)"
+msgstr ""
+
+#: ../content/country.py:195
+msgid "Wallis And Futuna Islands"
+msgstr ""
+
+#: ../content/country.py:281
+msgid "Western Sahara"
+msgstr ""
+
+#: ../content/country.py:123
+msgid "Yemen"
+msgstr ""
+
+#: ../content/country.py:282
+msgid "Zambia"
+msgstr ""
+
+#: ../content/country.py:283
+msgid "Zimbabwe"
+msgstr ""
+
+#: ../skins/plone_services_center/notification_published.pt:8
+msgid "[Plonet.net] Item has been published: '${title_item_published}'"
+msgstr "[Plonet.net] Elemento ha sido publicado: '${title_item_published}'"
+
+#: ../skins/plone_services_center/notification_rejected.pt:8
+msgid "[Plonet.net] Item has been rejected: '${title_item_rejected}'"
+msgstr "[Plonet.net] Elemento ha sido rechazado: '${title_item_rejected}'"
+
+#: ../skins/plone_services_center/notification_submitted.pt:8
+msgid "[Plonet.net] Item has been submitted: '${title_item_submitted}'"
+msgstr "[Plonet.net] Elemento ha sido enviado: '${title_item_submitted}'"
+
+#. Default: "Enter the details description about this buzz."
+#: ../content/Buzz.py:15
+msgid "help_buzz_body"
+msgstr "Introduzca los detalles de la descripción acerca de esta coberturas de los medios de comunicación."
+
+#. Default: "Add a logo for the case study (normally the customer logo). Max 150x75 pixels (will be resized if bigger)."
+#: ../content/Buzz.py:28
+msgid "help_buzz_logo"
+msgstr "Agregar un logotipo para este caso de estudio. Máximo de 150x75 pixels (se le cambiará las dimensiones si es grande)."
+
+#. Default: "Select a provider from the below listing for the media coverage."
+#: ../content/Buzz.py:45
+msgid "help_buzz_provider"
+msgstr "Seleccione un proveedor desde la siguiente lista para esta cobertura del medio de comunicación."
+
+#. Default: "Enter the details description about this case study."
+#: ../content/CaseStudy.py:17
+msgid "help_casestudy_body"
+msgstr "Introduzca la descripción detallada acerca de este caso de estudio."
+
+#. Default: "Add a logo for the case study (normally the customer logo). Max 150x75 pixels (will be resized if bigger)."
+#: ../content/CaseStudy.py:28
+msgid "help_casestudy_logo"
+msgstr "Agregar un logotipo para el caso de estudio (normalmente el logotipo del cliente). Máximo de 150x75 pixels (se le cambiará las dimensiones si es grande)."
+
+#. Default: "Select a provider from the below listing for the case study."
+#: ../content/CaseStudy.py:40
+msgid "help_casestudy_provider"
+msgstr "Seleccione un proveedor desde la siguiente lista para este caso de estudio."
+
+#. Default: "Estimate in USD (Used for statistical purposes only, will never be made public)"
+#: ../content/Provider.py:59
+msgid "help_provider_annualrevenues"
+msgstr "Estimación en dólares EE.UU (Usado solamente por propósitos estadísticos, nosotros nunca lo haremos publico)"
+
+#. Default: "Enter the details description about this provider."
+#: ../content/Provider.py:39
+msgid "help_provider_body"
+msgstr "Introduzca los detalles de la descripción de este proveedor."
+
+#. Default: "What is the size of the company?"
+#: ../content/Provider.py:101
+msgid "help_provider_companysize"
+msgstr "¿Cual es el tamaño de la compañía?"
+
+#. Default: "Is this company a sponsor?"
+#: ../content/Provider.py:80
+msgid "help_provider_companysponsor"
+msgstr "¿Esta compañía es un patrocinante?"
+
+#. Default: "Are Plone services the majority of your income? (Used for statistical purposes only, will never be made public)"
+#: ../content/Provider.py:69
+msgid "help_provider_fulltime"
+msgstr "¿Son los servicios de Plone la mayoría de sus ingresos? (Usado solamente por propósitos estadísticos, nosotros nunca lo haremos publico)"
+
+#. Default: "Check if this flag if the company is considered to be a good-behaving, ethical company."
+#: ../content/Provider.py:19
+msgid "help_provider_goodcompany"
+msgstr "Seleccione esta casilla de comprobación si la compañía es considerada como una compañía ética y con buen comportamiento."
+
+#. Default: "Add a logo for the project (or organization/company) by clicking the 'Browse' button. Max 150x75 pixels (will be resized if bigger)."
+#: ../content/Provider.py:28
+msgid "help_provider_logo"
+msgstr "Agregar un logotipo para este proyecto (o organización/compañía) haciendo clic en el botón 'Examinar...'. Máximo de 150x75 pixels (se le cambiará las dimensiones si es grande)."
+
+#. Default: "Number of full-time employees (Used for statistical purposes only, will never be made public)"
+#: ../content/Provider.py:49
+msgid "help_provider_numemployees"
+msgstr "Número de empleados a tiempo completo (Usado solamente por propósitos estadísticos, nosotros nunca lo haremos publico)"
+
+#. Default: "Is this company a premium sponsor?"
+#: ../content/Provider.py:91
+msgid "help_provider_premiumsponsor"
+msgstr "¿Esta compañía es un patrocinador premium?"
+
+#: ../content/Services.py:17
+msgid "help_psc_description"
+msgstr ""
+
+#. Default: "Enter the contact name."
+#: ../content/Services.py:76
+msgid "help_services_contactname"
+msgstr "Introduzca el nombre del contacto."
+
+#. Default: "Select a country"
+#: ../content/Services.py:30
+msgid "help_services_country"
+msgstr "Seleccione un país"
+
+#. Default: "Enter the email for contacts."
+#: ../content/Services.py:87
+msgid "help_services_email"
+msgstr "Introduzca la dirección de correo electrónico para contactos."
+
+#. Default: "Select a industry from the below list."
+#: ../content/Services.py:42
+msgid "help_services_industry"
+msgstr "Seleccione un sector de la industria en la siguiente lista."
+
+#. Default: "Select a value of options from the below list by rating."
+#: ../content/Services.py:62
+msgid "help_services_rating"
+msgstr "Seleccione un valor desde la siguiente lista de calificación."
+
+#. Default: "Enter the web address (URL). You can copy & paste this from a browser window."
+#: ../content/Services.py:53
+msgid "help_services_url"
+msgstr "Introduzca la dirección Web (URL). Usted puede copiar y pegar esta desde a ventana de un navegador Web."
+
+#. Default: "The following listing shows Plone-based websites around the world. The featured sites focus on high-profile sites that highlight an interesting use of the Plone CMS. If the site was deployed by a Plone service provider, it is listed as well."
+#: ../skins/plone_services_center/sites_listing.pt:28
+msgid "help_siteslist_plonesite"
+msgstr "La siguiente lista muestra los sitios Web basado en Plone alrededor del mundo. Las funciones se centran en lugares de alto perfil de los sitios que destacar un interesante uso de la Plone CMS. Si el sitio se desplegó por un proveedor de servicios de Plone, que este  en la lista."
+
+#. Default: "Select a provider from the below listing for the Site that Use Plone."
+#: ../content/SiteUsingPlone.py:15
+msgid "help_siteuseplone_provider"
+msgstr "Seleccione un proveedor desde la siguiente lista para este sitio que usa Plone."
+
+#. Default: "Country:"
+#: ../skins/plone_services_center/buzz_listing.pt:118
+msgid "label_buzzlist_country"
+msgstr "País:"
+
+#. Default: "Currently listing <strong>${label_buzzlist_counts} media coverages</strong> about Plone."
+#: ../skins/plone_services_center/buzz_listing.pt:34
+msgid "label_buzzlist_curretly_mediacovers"
+msgstr "Listado actual de <strong>${label_buzzlist_counts} coberturas de los medios de comunicación</strong> acerca de Plone."
+
+#. Default: "You can customize the listing by selecting countries and industries on the right."
+#: ../skins/plone_services_center/buzz_listing.pt:30
+msgid "label_buzzlist_customlist"
+msgstr "Usted puede personalizar la lista seleccionando países y industrias a la derecha."
+
+#. Default: "Industry:"
+#: ../skins/plone_services_center/buzz_listing.pt:123
+msgid "label_buzzlist_industry"
+msgstr "Industria:"
+
+#. Default: "Excerpt"
+#: ../skins/plone_services_center/buzz_view.pt:34
+msgid "label_buzzview_excerpt"
+msgstr "Extracto"
+
+#. Default: "Click to see the original media coverage"
+#: ../skins/plone_services_center/buzz_view.pt:27
+msgid "label_buzzview_media_cover"
+msgstr "Haga clic para ver la cobertura original del medio de comunicación"
+
+#. Default: "(opens in new window)"
+#: ../skins/plone_services_center/buzz_view.pt:31
+msgid "label_buzzview_media_cover_new_window"
+msgstr "(abrir en nueva ventana)"
+
+#. Default: "Published"
+#: ../skins/plone_services_center/buzz_view.pt:59
+msgid "label_buzzview_published"
+msgstr "Publicado"
+
+#. Default: "Site"
+#: ../skins/plone_services_center/casestudy_view.pt:32
+msgid "label_casestudy_view_site"
+msgstr "Sitio"
+
+#. Default: "Currently listing <strong>${label_casestudylist_counts} case studies</strong> about Plone."
+#: ../skins/plone_services_center/casestudy_listing.pt:34
+msgid "label_casestudylist_currently"
+msgstr "Listado actual de <strong>${label_casestudylist_counts} casos de estudios</strong> acerca de Plone."
+
+#. Default: "You can customize the listing by selecting countries and industries on the right."
+#: ../skins/plone_services_center/casestudy_listing.pt:30
+msgid "label_casestudylist_custom_countries"
+msgstr "Usted puede personalizar la lista de selección de los países y las industrias a la derecha."
+
+#. Default: "The following listing shows Plone providers around the world."
+#: ../skins/plone_services_center/by-country.pt:31
+msgid "label_country_descr"
+msgstr "La siguiente lista muestra los proveedores de Plone alrededor del mundo."
+
+#. Default: "Plone Service Providers"
+#: ../skins/plone_services_center/by-country.pt:27
+msgid "label_country_plone_providers"
+msgstr "Proveedores de Servicios en Plone"
+
+#. Default: "Worldwide"
+#: ../skins/plone_services_center/by-country.pt:39
+msgid "label_country_www"
+msgstr "En todo el mundo"
+
+#. Default: "Logo"
+#: ../content/Buzz.py:27
+msgid "label_general_logo"
+msgstr "Logotipo"
+
+#. Default: "Confidential: Annual revenues"
+#: ../content/Provider.py:58
+msgid "label_provider_annualrevenues"
+msgstr "Confidencial: Ingresos anuales"
+
+#. Default: "Case Studies"
+#: ../skins/plone_services_center/provider_view.pt:101
+msgid "label_provider_case_studies"
+msgstr "Casos de Estudios"
+
+#. Default: "What is the size of the company?"
+#: ../content/Provider.py:100
+msgid "label_provider_companysize"
+msgstr "¿Cual es el tamaño de la compañía?"
+
+#. Default: "Is this company a sponsor?"
+#: ../content/Provider.py:79
+msgid "label_provider_companysponsor"
+msgstr "¿Esta compañía es un patrocinador?"
+
+#. Default: "Deployed Sites"
+#: ../skins/plone_services_center/provider_view.pt:125
+msgid "label_provider_deployed_sites"
+msgstr "Sitios desplegados"
+
+#. Default: "No sites found, add yours in the <a href=\"../sites\">Sites section</a>."
+#: ../skins/plone_services_center/provider_view.pt:148
+msgid "label_provider_deployedsites_msg"
+msgstr "No hay sitios encontrados, agregue los suyos en la <a href=\"../sites\">sección de Sitios</a>."
+
+#. Default: "Confidential: Full Time Plone"
+#: ../content/Provider.py:68
+msgid "label_provider_fulltime"
+msgstr "Confidencial: Ingresos anuales"
+
+#. Default: "Good Company?"
+#: ../content/Provider.py:18
+msgid "label_provider_goodcompany"
+msgstr "¿Es una Buena Compañía?"
+
+#. Default: "Home page"
+#: ../skins/plone_services_center/provider_view.pt:52
+msgid "label_provider_homepage"
+msgstr "Página Web"
+
+#. Default: "Note:"
+#: ../skins/plone_services_center/provider_view.pt:151
+msgid "label_provider_note"
+msgstr "Nota:"
+
+#. Default: "<li>You need a minimum of one site listed on plone.net to be approved as a provider.</li> <li>Sites will only show up after being approved.</li>"
+#: ../skins/plone_services_center/provider_view.pt:155
+msgid "label_provider_note_msg"
+msgstr "<li>Usted necesita un mínimo de un sitio listado en plone.net para ser aprobado como un proveedor.</li>      <li>Las páginas se muestran sólo después de haber sido aprobadas.</li>"
+
+#. Default: "Confidential: Number of employees"
+#: ../content/Provider.py:48
+msgid "label_provider_numemployees"
+msgstr "Confidencial: Número de empleados"
+
+#. Default: "Is this company a premium sponsor?"
+#: ../content/Provider.py:90
+msgid "label_provider_premiumsponsor"
+msgstr "¿Esta compañía es un patrocinante premium?"
+
+#. Default: "Currently listing <strong> ${label_providers_counts} service providers </strong> <span> in <strong> ${label_providers_countries} countries. </strong> </span>"
+#: ../skins/plone_services_center/by-country.pt:65
+msgid "label_providers_currently"
+msgstr "Listado actual de <strong> ${label_providers_counts} proveedores de servicios</strong> <span> en <strong> ${label_providers_countries} países</strong>. </span>"
+
+#. Default: "Case study written by"
+#: ../skins/plone_services_center/casestudy_view.pt:56
+msgid "label_psc_casestudy_provided_by"
+msgstr "Caso de estudio escrito por"
+
+#. Default: "Case study by:"
+#: ../skins/plone_services_center/casestudy_listing.pt:89
+msgid "label_psc_casestudy_provider_by"
+msgstr "Caso de estudio por"
+
+#. Default: "Contact"
+#: ../skins/plone_services_center/casestudy_view.pt:62
+#: ../skins/plone_services_center/provider_view.pt:83
+msgid "label_psc_contact"
+msgstr "Contacto"
+
+#. Default: "Country:"
+#: ../skins/plone_services_center/buzz_listing.pt:78
+#: ../skins/plone_services_center/by-country.pt:110
+#: ../skins/plone_services_center/casestudy_listing.pt:79
+msgid "label_psc_country"
+msgstr "País:"
+
+#. Default: "Country"
+#: ../content/Services.py:29
+#: ../skins/plone_services_center/buzz_listing.pt:145
+#: ../skins/plone_services_center/buzz_view.pt:51
+msgid "label_psc_country_cat"
+msgstr "País"
+
+#. Default: "Description"
+#: ../content/Services.py:16
+msgid "label_psc_description"
+msgstr "Descripción"
+
+#. Default: "Detailed information"
+#: ../content/Buzz.py:14
+#: ../content/CaseStudy.py:16
+#: ../content/Provider.py:38
+msgid "label_psc_detailed_info"
+msgstr "Información detallada"
+
+#. Default: "Please consult these guidelines before submitting your content"
+#: ../skins/plone_services_center/buzz_view.pt:11
+#: ../skins/plone_services_center/casestudy_view.pt:11
+#: ../skins/plone_services_center/provider_view.pt:19
+msgid "label_psc_guideline"
+msgstr "Por favor consulte las directrices antes de presentar su contenido"
+
+#. Default: "Industry:"
+#: ../skins/plone_services_center/buzz_listing.pt:83
+#: ../skins/plone_services_center/casestudy_listing.pt:84
+#: ../skins/plone_services_center/sites_listing.pt:86
+msgid "label_psc_industry"
+msgstr "Industria:"
+
+#. Default: "Industry"
+#: ../content/Services.py:41
+#: ../skins/plone_services_center/buzz_listing.pt:154
+#: ../skins/plone_services_center/buzz_view.pt:47
+msgid "label_psc_industry_cat"
+msgstr "Industria"
+
+#. Default: "Location"
+#: ../skins/plone_services_center/casestudy_view.pt:48
+#: ../skins/plone_services_center/provider_view.pt:63
+msgid "label_psc_location"
+msgstr "Ubicación"
+
+#. Default: "Logo"
+#: ../content/CaseStudy.py:27
+#: ../content/Provider.py:27
+msgid "label_psc_logo"
+msgstr "Logotipo"
+
+#. "    <strong>No related items were found for these search terms.</strong>"
+#. "    Please broaden your search and try again."
+#. Default: "<strong>No related items were found for these search terms.</strong> Please broaden your search and try again."
+#: ../skins/plone_services_center/psc_macros.pt:9
+msgid "label_psc_macros_filter_form"
+msgstr ""
+"    <strong>No se encontraron elementos relacionados para estos términos de "
+"búsqueda.</strong>    Por favor, ampliar su búsqueda y vuelva a intentar de "
+"nuevo."
+
+#. Default: "not available"
+#: ../skins/plone_services_center/psc_macros.pt:28
+msgid "label_psc_macros_notavailable"
+msgstr "no esta disponible"
+
+#. Default: "Provided by"
+#: ../skins/plone_services_center/buzz_view.pt:42
+msgid "label_psc_provided"
+msgstr "Proveído por"
+
+#. Default: "Provided by"
+#: ../skins/plone_services_center/siteusingplone_view.pt:36
+msgid "label_psc_provided_by"
+msgstr "Proveído por"
+
+#. Default: "Provider:"
+#: ../skins/plone_services_center/buzz_listing.pt:88
+#: ../skins/plone_services_center/sites_listing.pt:91
+msgid "label_psc_provider"
+msgstr "Proveedor:"
+
+#. Default: "Provider"
+#: ../content/Buzz.py:44
+#: ../content/CaseStudy.py:39
+#: ../content/SiteUsingPlone.py:14
+msgid "label_psc_provider_cat"
+msgstr "Proveedor"
+
+#. Default: "Firm Size"
+#: ../skins/plone_services_center/provider_view.pt:74
+msgid "label_psc_size"
+msgstr "Tamaño de la firma"
+
+#. Default: "Large (>7 FTE)"
+#: ../skins/plone_services_center/psc_macros.pt:96
+msgid "label_pscmacros_display_size_large"
+msgstr "Grande (>7 FTE)"
+
+#. Default: "Medium (2-7 FTE)"
+#: ../skins/plone_services_center/psc_macros.pt:95
+msgid "label_pscmacros_display_size_medium"
+msgstr "Mediana (2-7 FTE)"
+
+#. Default: "With specificate"
+#: ../skins/plone_services_center/psc_macros.pt:93
+msgid "label_pscmacros_display_size_none"
+msgstr "Sin especificar"
+
+#. Default: "Small (less that 2 FTE)"
+#: ../skins/plone_services_center/psc_macros.pt:94
+msgid "label_pscmacros_display_size_small"
+msgstr "Pequeña (<2 FTE)"
+
+#. Default: "[ All ]"
+#: ../skins/plone_services_center/psc_macros.pt:60
+msgid "label_pscmacros_filter_form_all"
+msgstr "[ Todos ]"
+
+#. Default: "Countries:"
+#: ../skins/plone_services_center/psc_macros.pt:68
+msgid "label_pscmacros_filter_form_countries"
+msgstr "Países:"
+
+#. Default: "Industries:"
+#: ../skins/plone_services_center/psc_macros.pt:57
+msgid "label_pscmacros_filter_form_industries"
+msgstr "Industrias:"
+
+#. Default: "Filter"
+#: ../skins/plone_services_center/by-country.pt:49
+#: ../skins/plone_services_center/psc_macros.pt:80
+msgid "label_search"
+msgstr "Filtro"
+
+#. Default: "Contact Name"
+#: ../content/Services.py:75
+msgid "label_services_contactname"
+msgstr "Nombre de Contacto"
+
+#. Default: "Email"
+#: ../content/Services.py:86
+msgid "label_services_email"
+msgstr "Dirección de correo electrónico"
+
+#. Default: "Rating"
+#: ../content/Services.py:61
+msgid "label_services_rating"
+msgstr "Calificación"
+
+#. Default: "URL"
+#: ../content/Services.py:52
+msgid "label_services_url"
+msgstr "Dirección Web"
+
+#. Default: "Country:"
+#: ../skins/plone_services_center/sites_listing.pt:120
+msgid "label_siteslist_country"
+msgstr "País:"
+
+#. Default: "Currently listing <strong>${label_siteslist_counts} sites</strong> powered by Plone."
+#: ../skins/plone_services_center/sites_listing.pt:38
+msgid "label_siteslist_currentsites"
+msgstr ""
+"Listado actual de <strong>${label_siteslist_counts} sitios Web</strong> "
+"basado en Plone."
+
+#. Default: "You can customize the listing by selecting countries and industries on the right."
+#: ../skins/plone_services_center/sites_listing.pt:34
+msgid "label_siteslist_custom"
+msgstr ""
+"Usted puede personalizar la lista seleccionando países y industrias a la "
+"derecha."
+
+#. Default: "Industry:"
+#: ../skins/plone_services_center/sites_listing.pt:125
+msgid "label_siteslist_industry"
+msgstr "Industria:"
+
+#. Default: "Plone Sites"
+#: ../skins/plone_services_center/sites_listing.pt:20
+msgid "label_siteslist_plonesite"
+msgstr "Sitios en Plone"
+
+#. Default: "(opens in new window)"
+#: ../skins/plone_services_center/siteusingplone_view.pt:31
+msgid "label_siteuseplone_open_new_window"
+msgstr "(abrir en nueva ventana)"
+
+#. Default: "Click to visit the site"
+#: ../skins/plone_services_center/siteusingplone_view.pt:27
+msgid "label_siteuseplone_openwindow"
+msgstr "Haga clic para visitar el sitio"
+
+#: ../content/Provider.py:139
+msgid "large"
+msgstr "Grande"
+
+#: ../content/Provider.py:138
+msgid "medium"
+msgstr "Mediana"
+
+#: ../content/Provider.py:136
+msgid "none"
+msgstr "Nada"
+
+#: ../content/Provider.py:137
+msgid "small"
+msgstr "Pequeña"
