@@ -17,8 +17,7 @@ msgstr ""
 "Language-Name: Spanish\n"
 "Preferred-Encodings: utf-8 latin1\n"
 "Domain: ploneservicescenter\n"
-"X-Is-Fallback-For: es-ar es-bo es-cl es-co es-cr es-do es-ec es-es es-sv es-"
-"gt es-hn es-mx es-ni es-pa es-py es-pe es-pr es-us es-uy es-ve\n"
+"X-Is-Fallback-For: es-ar es-bo es-cl es-co es-cr es-do es-ec es-es es-sv es-gt es-hn es-mx es-ni es-pa es-py es-pe es-pr es-us es-uy es-ve\n"
 
 #: ../content/country.py:134
 msgid "Afghanistan"
@@ -275,7 +274,7 @@ msgstr ""
 #: ../skins/plone_services_center/provider_view.pt:162
 msgid "Disclaimer: While the Plone Foundation performs a rudimentary background check on the content contributed to this site to make sure it is legitimate, it does not constitute any kind of endorsement nor responsibility for its accuracy. Use sound judgement when engaging in any business transaction, as you would anywhere else."
 msgstr ""
-"Renuncia: Si bien la Fundación Plone realiza una verificación de "
+"Renuncia: Si bien la comunidad Canaima GNU/Linux realiza una verificación de "
 "antecedentes rudimentario sobre el contenido contribuido a este sitio para "
 "asegurarse de que es legítimo, que no constituye ningún tipo de garantía ni "
 "responsabilidad por su exactitud. Use buen juicio al participar en cualquier "
@@ -782,13 +781,13 @@ msgstr ""
 #: ../skins/plone_services_center/by-country.pt:106
 #: ../skins/plone_services_center/provider_view.pt:33
 msgid "Plone Foundation Premium Sponsor"
-msgstr "Patrocinador Premium de la Fundación Plone"
+msgstr "Patrocinador Premium de la comunidad Canaima GNU/Linux"
 
 #. Default: "Plone Foundation Sponsor"
 #: ../skins/plone_services_center/by-country.pt:154
 #: ../skins/plone_services_center/provider_view.pt:31
 msgid "Plone Foundation Sponsor"
-msgstr "Patrocinador de la Fundación Plone"
+msgstr "Patrocinador de la comunidad Canaima GNU/Linux"
 
 #: ../content/country.py:57
 msgid "Poland"
@@ -1096,15 +1095,15 @@ msgstr ""
 
 #: ../skins/plone_services_center/notification_published.pt:8
 msgid "[Plonet.net] Item has been published: '${title_item_published}'"
-msgstr "[Plonet.net] Elemento ha sido publicado: '${title_item_published}'"
+msgstr "[Canaima GNU/Linux] Elemento ha sido publicado: '${title_item_published}'"
 
 #: ../skins/plone_services_center/notification_rejected.pt:8
 msgid "[Plonet.net] Item has been rejected: '${title_item_rejected}'"
-msgstr "[Plonet.net] Elemento ha sido rechazado: '${title_item_rejected}'"
+msgstr "[Canaima GNU/Linux] Elemento ha sido rechazado: '${title_item_rejected}'"
 
 #: ../skins/plone_services_center/notification_submitted.pt:8
 msgid "[Plonet.net] Item has been submitted: '${title_item_submitted}'"
-msgstr "[Plonet.net] Elemento ha sido enviado: '${title_item_submitted}'"
+msgstr "[Canaima GNU/Linux] Elemento ha sido enviado: '${title_item_submitted}'"
 
 #. Default: "Enter the details description about this buzz."
 #: ../content/Buzz.py:15
@@ -1159,7 +1158,7 @@ msgstr "¿Esta compañía es un patrocinante?"
 #. Default: "Are Plone services the majority of your income? (Used for statistical purposes only, will never be made public)"
 #: ../content/Provider.py:69
 msgid "help_provider_fulltime"
-msgstr "¿Son los servicios de Plone la mayoría de sus ingresos? (Usado solamente por propósitos estadísticos, nosotros nunca lo haremos publico)"
+msgstr "¿Son los servicios de Canaima GNU/Linux la mayoría de sus ingresos? (Usado solamente por propósitos estadísticos, nosotros nunca lo haremos publico)"
 
 #. Default: "Check if this flag if the company is considered to be a good-behaving, ethical company."
 #: ../content/Provider.py:19
@@ -1223,7 +1222,7 @@ msgstr "La siguiente lista muestra los sitios Web basado en Plone alrededor del 
 #. Default: "Select a provider from the below listing for the Site that Use Plone."
 #: ../content/SiteUsingPlone.py:15
 msgid "help_siteuseplone_provider"
-msgstr "Seleccione un proveedor desde la siguiente lista para este sitio que usa Plone."
+msgstr "Seleccione un proveedor desde la siguiente lista para este sitio que usa Canaima GNU/Linux."
 
 #. Default: "Country:"
 #: ../skins/plone_services_center/buzz_listing.pt:118
@@ -1233,7 +1232,7 @@ msgstr "País:"
 #. Default: "Currently listing <strong>${label_buzzlist_counts} media coverages</strong> about Plone."
 #: ../skins/plone_services_center/buzz_listing.pt:34
 msgid "label_buzzlist_curretly_mediacovers"
-msgstr "Listado actual de <strong>${label_buzzlist_counts} coberturas de los medios de comunicación</strong> acerca de Plone."
+msgstr "Listado actual de <strong>${label_buzzlist_counts} coberturas de los medios de comunicación</strong> acerca de Canaima GNU/Linux."
 
 #. Default: "You can customize the listing by selecting countries and industries on the right."
 #: ../skins/plone_services_center/buzz_listing.pt:30
@@ -1273,7 +1272,7 @@ msgstr "Sitio"
 #. Default: "Currently listing <strong>${label_casestudylist_counts} case studies</strong> about Plone."
 #: ../skins/plone_services_center/casestudy_listing.pt:34
 msgid "label_casestudylist_currently"
-msgstr "Listado actual de <strong>${label_casestudylist_counts} casos de estudios</strong> acerca de Plone."
+msgstr "Listado actual de <strong>${label_casestudylist_counts} casos de estudios</strong> acerca de Canaima GNU/Linux."
 
 #. Default: "You can customize the listing by selecting countries and industries on the right."
 #: ../skins/plone_services_center/casestudy_listing.pt:30
@@ -1283,12 +1282,12 @@ msgstr "Usted puede personalizar la lista de selección de los países y las ind
 #. Default: "The following listing shows Plone providers around the world."
 #: ../skins/plone_services_center/by-country.pt:31
 msgid "label_country_descr"
-msgstr "La siguiente lista muestra los proveedores de Plone alrededor del mundo."
+msgstr "La siguiente lista muestra los proveedores de Canaima GNU/Linux en Venezuela."
 
 #. Default: "Plone Service Providers"
 #: ../skins/plone_services_center/by-country.pt:27
 msgid "label_country_plone_providers"
-msgstr "Proveedores de Servicios en Plone"
+msgstr "Proveedores de Servicios en Canaima GNU/Linux"
 
 #. Default: "Worldwide"
 #: ../skins/plone_services_center/by-country.pt:39

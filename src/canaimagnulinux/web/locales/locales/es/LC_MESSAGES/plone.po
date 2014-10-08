@@ -46,12 +46,12 @@ msgstr "Antetítulo"
 #. Default: "A company or organization that offers Plone services."
 #: ../profiles/default/types/Provider.xml
 msgid "A company or organization that offers Plone services."
-msgstr "Una compañía o organización que ofrece servicios con Plone."
+msgstr "Una compañía o organización que ofrece servicios con Canaima GNU/Linux."
 
 #. Default: "A link to media coverage of Plone."
 #: ../profiles/default/types/Buzz.xml
 msgid "A link to media coverage of Plone."
-msgstr "Un enlace a las coberturas de los medios de comunicación de Plone."
+msgstr "Un enlace a las coberturas de los medios de comunicación de Canaima GNU/Linux."
 
 #: ../profiles/default/workflows/public_workflow/definition.xml
 msgid "A publication workflow for Buzz and SiteUsingPlone objects"
@@ -63,12 +63,12 @@ msgstr "Un flujo de trabajo de publicación para los objetos BuzzFolder, CaseStu
 
 #: ../profiles/default/workflows/plonenet_workflow/definition.xml
 msgid "A publication workflow for Plone.net content"
-msgstr "Un flujo de trabajo de publicación para los contenidos de Plone.net"
+msgstr "Un flujo de trabajo de publicación para los contenidos de Canaima GNU/Linux"
 
 #. Default: "A service that offers the Plone services companies or organizations."
 #: ../profiles/default/types/Services.xml
 msgid "A service that offers the Plone services companies or organizations."
-msgstr "Un servicio que ofrece la compañía de servicios de Plone o organización."
+msgstr "Un servicio que ofrece la compañía de servicios de Canaima GNU/Linux o organización."
 
 #: ../profiles/default/types/BuzzFolder.xml
 msgid "Buzz Folder"
@@ -107,7 +107,7 @@ msgstr "Flujo de trabajo de Carpeta"
 #. Default: "Folder for Plone buzz items."
 #: ../profiles/default/types/BuzzFolder.xml
 msgid "Folder for Plone buzz items."
-msgstr "Carpeta para Coberturas en medios de comunicación de Plone."
+msgstr "Carpeta para Coberturas en medios de comunicación de Canaima GNU/Linux."
 
 #. Default: "Folder for Services."
 #: ../profiles/default/types/ServicesFolder.xml
@@ -204,7 +204,7 @@ msgstr "Pendiente"
 
 #: ../profiles/default/workflows/plonenet_workflow/definition.xml
 msgid "Plone.net content workflow"
-msgstr "Flujo de trabajo de contenidos para Plone.net"
+msgstr "Flujo de trabajo de contenidos para Canaima GNU/Linux"
 
 #: ../profiles/default/workflows/plonenet_folder_workflow/definition.xml
 msgid "Private"
