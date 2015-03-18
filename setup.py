@@ -13,9 +13,9 @@ setup(name='canaimagnulinux.web.locales',
       version=version,
       description="Localizaciones para sitio web de Proyecto Canaima GNU/Linux",
       long_description=long_description,
-      classifiers=[
       # Get more strings from
       # http://pypi.python.org/pypi?%3Aaction=list_classifiers
+      classifiers=[
         "Development Status :: 5 - Production/Stable",
         "Framework :: Plone",
         "Framework :: Plone :: 4.3",
