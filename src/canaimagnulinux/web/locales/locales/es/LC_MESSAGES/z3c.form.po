@@ -1,26 +1,27 @@
 # #############################################################################
-#
 # Copyright (c) 2003-2004 Zope Foundation and Contributors.
 # All Rights Reserved.
-#
 # This software is subject to the provisions of the Zope Public License,
 # Version 2.1 (ZPL).  A copy of the ZPL should accompany this distribution.
 # THIS SOFTWARE IS PROVIDED "AS IS" AND ANY AND ALL EXPRESS OR IMPLIED
 # WARRANTIES ARE DISCLAIMED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
 # WARRANTIES OF TITLE, MERCHANTABILITY, AGAINST INFRINGEMENT, AND FITNESS
 # FOR A PARTICULAR PURPOSE.
-#
 # #############################################################################
+# Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: Development/Unknown\n"
 "POT-Creation-Date: Sun Aug 15 14:53:46 2010\n"
-"PO-Revision-Date: 2011-12-14 14:42-0600\n"
-"Last-Translator: Héctor Velarde <hector.velarde@gmail.com>\n"
-"Language-Team: Zope 3 Developers <zope-dev@zope.org>\n"
+"PO-Revision-Date: 2015-03-17 21:43-0430\n"
+"Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
+"Language-Team: ES <LL@li.org>\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
 "Generated-By: zope/app/locales/extract.py\n"
 
 #: src/z3c/form/browser/multi.py:66
@@ -38,7 +39,7 @@ msgstr "sin valor"
 
 #: src/z3c/form/browser/select.py:39
 msgid "select a value ..."
-msgstr "seleccione un valor…"
+msgstr "seleccione un valor ..."
 
 #: src/z3c/form/converter.py:125
 msgid "The entered value is not a valid integer literal."
@@ -86,7 +87,9 @@ msgstr "Campos"
 
 #: src/z3c/form/interfaces.py:1011
 msgid "A field manager describing the fields to be used for the form."
-msgstr "Un administrador de campos describiendo los campos que serán usados en el formulario."
+msgstr ""
+"Un administrador de campos describiendo los campos que serán usados en el "
+"formulario."
 
 #: src/z3c/form/interfaces.py:1019
 msgid "Content providers"
@@ -94,7 +97,9 @@ msgstr "Proveedores de contenido"
 
 #: src/z3c/form/interfaces.py:1020
 msgid "A manager describing the content providers to be used for the form."
-msgstr "Un administrador describiendo los proveedores de contenido que serán usados en el formulario."
+msgstr ""
+"Un administrador describiendo los proveedores de contenido que serán usados "
+"en el formulario."
 
 #: src/z3c/form/interfaces.py:1028
 msgid "Buttons"
@@ -102,7 +107,9 @@ msgstr "Botones"
 
 #: src/z3c/form/interfaces.py:1029
 msgid "A button manager describing the buttons to be used for the form."
-msgstr "Un administrador de botones describiendo los botones que serán usados en el formulario."
+msgstr ""
+"Un administrador de botones describiendo los botones que serán usados en el "
+"formulario."
 
 #: src/z3c/form/interfaces.py:1054
 msgid "The widget for which the event was created."
@@ -192,7 +199,9 @@ msgstr "Ignorar el contexto"
 #: src/z3c/form/interfaces.py:200
 #: src/z3c/form/interfaces.py:832
 msgid "A flag, when set, forces the widget not to look at the context for a value."
-msgstr "Una marca que, cuando está habilitada, fuerza al widget a no considerar el contexto para un valor."
+msgstr ""
+"Una marca que, cuando está habilitada, fuerza al widget a no considerar el "
+"contexto para un valor."
 
 #: src/z3c/form/interfaces.py:205
 msgid "Widget Factory"
@@ -249,8 +258,10 @@ msgstr ""
 "\n"
 "        Este texto se puede traducir para la petición.\n"
 "\n"
-"        El atributo puede ser implementado tanto como una propiedad de lectura-escritura como\n"
-"        de sólo-lectura, en dependencia de los requerimientos para una implementación específica.\n"
+"        El atributo puede ser implementado tanto como una propiedad de "
+"lectura-escritura como\n"
+"        de sólo-lectura, en dependencia de los requerimientos para una "
+"implementación específica.\n"
 "         "
 
 #: src/z3c/form/interfaces.py:397
@@ -263,11 +274,14 @@ msgstr "Obligatorio"
 
 #: src/z3c/form/interfaces.py:403
 msgid "If true the widget should be displayed as required input."
-msgstr "En caso de ser verdadero, el widget será mostrado como un campo obligatorio."
+msgstr ""
+"En caso de ser verdadero, el widget será mostrado como un campo obligatorio."
 
 #: src/z3c/form/interfaces.py:410
 msgid "If an error occurred during any step, the error view stored here."
-msgstr "En caso de ocurrir un error en cualquier paso, la vista del error se almacena aquí."
+msgstr ""
+"En caso de ocurrir un error en cualquier paso, la vista del error se "
+"almacena aquí."
 
 #: src/z3c/form/interfaces.py:415
 msgid "Value"
@@ -285,7 +299,9 @@ msgstr "Ignora la petición"
 
 #: src/z3c/form/interfaces.py:423
 msgid "A flag, when set, forces the widget not to look at the request for a value."
-msgstr "Una marca que, cuando está habilitada, fuerza al widget a no considerar la petición para un valor."
+msgstr ""
+"Una marca que, cuando está habilitada, fuerza al widget a no considerar la "
+"petición para un valor."
 
 #: src/z3c/form/interfaces.py:430
 #: src/z3c/form/interfaces.py:620
@@ -294,7 +310,9 @@ msgstr "Definir errores"
 
 #: src/z3c/form/interfaces.py:431
 msgid "A flag, when set, the widget sets error messages on calling extract()."
-msgstr "Una marca que, cuando está habilitada, fuerza al widget a establecer los mensajes de error llamando al método extract()."
+msgstr ""
+"Una marca que, cuando está habilitada, fuerza al widget a establecer los "
+"mensajes de error llamando al método extract()."
 
 #: src/z3c/form/interfaces.py:476
 msgid "NO_VALUE Token"
@@ -318,15 +336,20 @@ msgstr "Prompt"
 
 #: src/z3c/form/interfaces.py:512
 msgid "A flag, when set, enables a choice explicitely requesting the user to choose a value."
-msgstr "Una marca que, cuando está habilitada, obliga al usuario a elegir un valor de manera explícita."
+msgstr ""
+"Una marca que, cuando está habilitada, obliga al usuario a elegir un valor "
+"de manera explícita."
 
 #: src/z3c/form/interfaces.py:517
 msgid "Items"
-msgstr "Ítems"
+msgstr "Elementos"
 
 #: src/z3c/form/interfaces.py:518
 msgid "A collection of dictionaries containing all pieces of information for rendering. The following keys must be in each dictionary: id, value, content, selected"
-msgstr "Una colección de diccionarios conteniendo todas la piezas de información para renderizar. Las siguientes llaves deben estar en cada diccionario: id, value, content, selected"
+msgstr ""
+"Una colección de diccionarios conteniendo todas la piezas de información "
+"para renderizar. Las siguientes llaves deben estar en cada diccionario: id, "
+"value, content, selected"
 
 #: src/z3c/form/interfaces.py:523
 msgid "No-Value Message"
@@ -335,7 +358,8 @@ msgstr "Mensaje cuando no hay valor"
 #: src/z3c/form/interfaces.py:524
 #: src/z3c/form/interfaces.py:529
 msgid "A human-readable text that is displayed to refer the missing value."
-msgstr "Un texto legible que se muestra para indicar que no se introdujo un valor."
+msgstr ""
+"Un texto legible que se muestra para indicar que no se introdujo un valor."
 
 #: src/z3c/form/interfaces.py:528
 msgid "Prompt Message"
@@ -380,11 +404,15 @@ msgstr "Tiene campos obligatorios"
 
 #: src/z3c/form/interfaces.py:613
 msgid "A flag set when at least one field is marked as required"
-msgstr "Una marca que, cuando está habilitada, indica que al menos un campo está marcado como obligatorio"
+msgstr ""
+"Una marca que, cuando está habilitada, indica que al menos un campo está "
+"marcado como obligatorio"
 
 #: src/z3c/form/interfaces.py:621
 msgid "A flag, when set, the contained widgets set error messages on calling extract()."
-msgstr "Una marca que, cuando está habilitada, fuerza a los widgets a establecer los mensajes de error llamando al método extract()."
+msgstr ""
+"Una marca que, cuando está habilitada, fuerza a los widgets a establecer los "
+"mensajes de error llamando al método extract()."
 
 #: src/z3c/form/interfaces.py:642
 #: src/z3c/form/zcml.py:70
@@ -462,7 +490,9 @@ msgstr "Actualizar acciones"
 
 #: src/z3c/form/interfaces.py:812
 msgid "A flag, when set, causes form actions to be updated again after their execution."
-msgstr "Una marca que, cuando está habilitada, provoca que las acciones del formulario se actualicen después de su ejecución."
+msgstr ""
+"Una marca que, cuando está habilitada, provoca que las acciones del "
+"formulario se actualicen después de su ejecución."
 
 #: src/z3c/form/interfaces.py:827
 msgid "The context in which the widget is displayed."
@@ -478,19 +508,25 @@ msgstr "Widgets"
 
 #: src/z3c/form/interfaces.py:876
 msgid "A widget manager containing the widgets to be used in the form."
-msgstr "Un administrador de widgets que contiene los widgets que se utilizarán en el formulario."
+msgstr ""
+"Un administrador de widgets que contiene los widgets que se utilizarán en el "
+"formulario."
 
 #: src/z3c/form/interfaces.py:882
 msgid "A human readable text describing the form that can be used in the UI."
-msgstr "Un texto legible que descibe los formularios que se pueden utilizar en el IU."
+msgstr ""
+"Un texto legible que describe los formularios que se pueden utilizar en el "
+"IU."
 
 #: src/z3c/form/interfaces.py:887
 msgid "Label required"
-msgstr "Etiqueta obligaroria"
+msgstr "Etiqueta obligatoria"
 
 #: src/z3c/form/interfaces.py:888
 msgid "A human readable text describing the form that can be used in the UI for rendering a required info legend."
-msgstr "Un texto legible describiendo el formulario que puede ser usado en el IU para renderizar la leyenda de una información requerida."
+msgstr ""
+"Un texto legible describiendo el formulario que puede ser usado en el IU "
+"para renderizar la leyenda de una información requerida."
 
 #: src/z3c/form/interfaces.py:894
 msgid "The prefix of the form used to uniquely identify it."
@@ -506,7 +542,9 @@ msgstr "El mensaje de estado de un formulario."
 
 #: src/z3c/form/interfaces.py:937
 msgid "The action defines the URI to which the form data are sent."
-msgstr "La acción que define el URI al cual se enviará la información del formulario."
+msgstr ""
+"La acción que define el URI al cual se enviará la información del "
+"formulario."
 
 #: src/z3c/form/interfaces.py:943
 msgid "The name of the form used to identify it."
@@ -526,7 +564,7 @@ msgstr "Método"
 
 #: src/z3c/form/interfaces.py:953
 msgid "The HTTP method used to submit the form."
-msgstr "El método HTTP utilizado para el envio del formulario."
+msgstr "El método HTTP utilizado para el envío del formulario."
 
 #: src/z3c/form/interfaces.py:959
 msgid "Encoding Type"
@@ -534,7 +572,8 @@ msgstr "Tipo de codificación"
 
 #: src/z3c/form/interfaces.py:960
 msgid "The data encoding used to submit the data safely."
-msgstr "La codificación de datos usada para enviar la información de manera segura."
+msgstr ""
+"La codificación de datos usada para enviar la información de manera segura."
 
 #: src/z3c/form/interfaces.py:965
 msgid "Accepted Character Sets"
@@ -542,7 +581,9 @@ msgstr "Conjuntos de caracteres aceptados"
 
 #: src/z3c/form/interfaces.py:966
 msgid "This is a list of character sets the server accepts. By default this is unknown."
-msgstr "Esta es una lista de conjuntos de caracteres que el servidor acepta. Por defecto, esto es desconocido."
+msgstr ""
+"Esta es una lista de conjuntos de caracteres que el servidor acepta. Por "
+"defecto, esto es desconocido."
 
 #: src/z3c/form/interfaces.py:971
 msgid "Accepted Content Types"
@@ -550,7 +591,9 @@ msgstr "Tipos de contenido aceptados"
 
 #: src/z3c/form/interfaces.py:972
 msgid "This is a list of content types the server can safely handle."
-msgstr "Esta es una lista de tipos de contenido que el servidor puede manipular de forma segura."
+msgstr ""
+"Esta es una lista de tipos de contenido que el servidor puede manipular de "
+"forma segura."
 
 #: src/z3c/form/term.py:152
 msgid "yes"
@@ -570,11 +613,13 @@ msgstr "Plantilla de diseño."
 
 #: src/z3c/form/zcml.py:40
 msgid "Refers to a file containing a page template (should end in extension ``.pt`` or ``.html``)."
-msgstr "Se refiere a un archivo conteniendo una plantilla (debe terminar en una extensión ``.pt`` o ``.html``)."
+msgstr ""
+"Se refiere a un archivo conteniendo una plantilla (debe terminar en una "
+"extensión ``.pt`` o ``.html``)."
 
 #: src/z3c/form/zcml.py:45
 msgid "The mode of the template."
-msgstr "El modo de la plantilla"
+msgstr "El modo de la plantilla."
 
 #: src/z3c/form/zcml.py:46
 msgid "The mode is used to define input and display templates"
@@ -622,4 +667,3 @@ msgstr "Esquema"
 #: src/z3c/form/zcml.py:90
 msgid "The schema of the field for which the template should be available"
 msgstr "El esquema del campo para el cual la plantilla debe estar disponible"
-
