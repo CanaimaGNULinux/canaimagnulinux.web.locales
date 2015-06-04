@@ -316,3 +316,30 @@ msgstr "No es un tipo de contenido"
 #: ../browser/overview.pt:30
 msgid "label_some_content_types"
 msgstr "Algunos tipos contenidos:"
+
+#. Default: "Edit XML Field Model"
+#: ../browser/fields.py:27
+msgid "Edit XML Field Model"
+msgstr "Editar modelo del campo XML"
+
+#. Default: "Edit field model for ${name}"
+#: ../browser/modeleditor.pt:21
+msgid "heading_model_edit"
+msgstr "Editar modelo del campo para ${name}"
+
+#. Default: "This form allows you to directly edit the XML representation of the field list. This makes it possible to add annotations for fieldsets, validation and widgets. See the <a href="http://developer.plone.org/reference_manuals/external/plone.app.dexterity/reference/dexterity-xml.html">Dexterity XML</a>section of the <a href="http://developer.plone.org/reference_manuals/external/plone.app.dexterity">Dexterity Developer Manual</a> for details."
+#: ../browser/modeleditor.pt:25
+msgid "description_model_edit"
+msgstr ""
+"Este formulario le permite editar directamente la representación XML de la "
+"lista de campo. Esto hace posible agregar anotaciones para conjunto de "
+"campos, validaciones y widgets. Ver la sección <a href=\\\"http://developer.pl"
+"one.org/reference_manuals/external/plone.app.dexterity/reference/dexterity-"
+"xml.html\\\">Dexterity XML</a> del <a href=\\\"http://developer.plone.org/refere"
+"nce_manuals/external/plone.app.dexterity\\\">Manual de desarrollo Dexterity "
+"</a> para más detalles."
+
+#. Default: "Back to the schema editor"
+#: ../browser/modeleditor.pt:36
+msgid "label_back_to_schemaeditor"
+msgstr "Volver al editor de esquema"
