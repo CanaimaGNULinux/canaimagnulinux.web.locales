@@ -1,9 +1,9 @@
-# Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2013.
+# Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2013, 2015.
 msgid ""
 msgstr ""
 "Project-Id-Version: Quintagroup Analytics\n"
 "POT-Creation-Date: 2012-04-05 08:00+0000\n"
-"PO-Revision-Date: 2013-10-19 11:29-0430\n"
+"PO-Revision-Date: 2015-03-17 21:44-0430\n"
 "Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
 "Language-Team: ES <LL@li.org>\n"
 "Language: es\n"
@@ -32,7 +32,7 @@ msgstr "Tipo de contenido por estado"
 
 #: quintagroup.analytics/quintagroup/analytics/browser/views.py:28
 msgid "Legacy portlets"
-msgstr "Portlets Legacy"
+msgstr "Portlets Legados"
 
 #: quintagroup.analytics/quintagroup/analytics/browser/views.py:23
 msgid "Overview"
