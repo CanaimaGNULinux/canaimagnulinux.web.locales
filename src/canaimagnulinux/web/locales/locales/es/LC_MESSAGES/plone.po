@@ -12,11 +12,8 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Domain: plone\n"
 "Language-Code: es\n"
 "Language-Name: Spanish\n"
-"Language-Team: ES <LL@li.org>\n"
-"X-Generator: Virtaal 0.7.1\n"
 "Preferred-Encodings: utf-8 latin1\n"
 "Domain: plone\n"
 "X-Is-Fallback-For: es-ar es-bo es-cl es-co es-cr es-do es-ec es-es es-sv es-gt es-hn es-mx es-ni es-pa es-py es-pe es-pr es-us es-uy es-ve\n"
@@ -390,3 +387,92 @@ msgstr "No hay elementos cambiados."
 msgid "portlet_rss_title"
 msgstr "Canal RSS"
 
+########### plone.app.discussion
+
+#: ../profiles/default/workflows/comment_review_workflow/definition.xml
+msgid "A simple review workflow for comments"
+msgstr "Flujo de trabajo simple de moderación de comentarios"
+
+#: ../profiles/default/workflows/comment_review_workflow/definition.xml
+msgid "Approve"
+msgstr "Aprobar"
+
+#: ../profiles/default/workflows/comment_review_workflow/definition.xml
+msgid "Approving the comment makes it visible to other users."
+msgstr "Aprobar el comentario significa que se publicará para todos los usuarios"
+
+#: ../profiles/default/types/Discussion_Item.xml
+msgid "Comment"
+msgstr "Comentario"
+
+#: ../profiles/default/workflows/comment_review_workflow/definition.xml
+msgid "Comment Review Workflow"
+msgstr "Flujo de trabajo de moderación de comentarios"
+
+#: ../profiles/default/workflows/comment_review_workflow/definition.xml
+msgid "Comment about the last transition"
+msgstr "Comentario sobre la última transición"
+
+#: ../profiles/default/portal_atct.xml
+msgid "Commentators"
+msgstr "Autores"
+
+#: ../profiles/default/types/Discussion_Item.xml
+msgid "Comments added to a content item."
+msgstr "Comentarios añadidos"
+
+#: ../profiles/default/controlpanel.xml
+msgid "Discussion"
+msgstr "Discusión"
+
+#: ../profiles/default/actions.xml
+msgid "Moderate comments"
+msgstr "Moderar comentarios"
+
+#: ../profiles/default/workflows/comment_review_workflow/definition.xml
+msgid "Pending"
+msgstr "Pendiente"
+
+#: ../profiles/default/workflows/comment_review_workflow/definition.xml
+msgid "Previous transition"
+msgstr "Transición anterior"
+
+#: ../profiles/default/workflows/comment_review_workflow/definition.xml
+msgid "Provides access to workflow history"
+msgstr "Acceso al historial del flujo de trabajo"
+
+#: ../profiles/default/workflows/comment_review_workflow/definition.xml
+msgid "Published"
+msgstr "Publicado"
+
+#: ../profiles/default/workflows/comment_review_workflow/definition.xml
+msgid "Reviewer approves content"
+msgstr "El revisor aprueba el comentario"
+
+#: ../profiles/default/workflows/comment_review_workflow/definition.xml
+msgid "Submitted, pending review."
+msgstr "Enviado, pendiente de moderación"
+
+#: ../profiles/default/workflows/comment_review_workflow/definition.xml
+msgid "The ID of the user who performed the previous transition"
+msgstr "El ID del usuario que ejecutó la transición anterior"
+
+#: ../profiles/default/portal_atct.xml
+msgid "Total number of comments"
+msgstr "Número total de comentarios"
+
+#: ../profiles/default/portal_atct.xml
+msgid "Total number of comments on this item."
+msgstr "Número de comentarios de este elemento"
+
+#: ../profiles/default/portal_atct.xml
+msgid "Users who have commented on the item"
+msgstr "Usuarios que han comentado el elemento"
+
+#: ../profiles/default/workflows/comment_review_workflow/definition.xml
+msgid "Visible to everyone, non-editable."
+msgstr "Visible para todos, no-editable"
+
+#: ../profiles/default/workflows/comment_review_workflow/definition.xml
+msgid "When the previous transition was performed"
+msgstr "Cuándo se ejecutó la transición anterior"
