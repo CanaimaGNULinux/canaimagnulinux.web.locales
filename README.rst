@@ -27,6 +27,10 @@ Características
 
   - Producto `plone.app.dexterity`_ para el dominio ``plone.app.dexterity``.
 
+  - Producto `plone.schemaeditor`_ para el dominio ``plone.schemaeditor``.
+
+  - Producto `plone.app.discussion`_ para el dominio ``plone.app.discussion``.
+
   - Producto `quintagroup.analytics`_ para el dominio ``quintagroup.analytics``.
 
   - Producto `collective.nitf`_ para los dominios ``collective.nitf`` y ``plone``.
@@ -34,6 +38,10 @@ Características
   - Producto `collective.geo.settings`_ para el dominio ``collective.geo.settings``.
 
   - Producto `pas.plugins.velruse`_ para el dominio ``pas.plugins.velruse``.
+
+  - Producto `Products.TinyMCE`_ para el dominio ``tinymce``.
+
+  - Producto `Products.PloneServicesCenter`_ para el dominio ``ploneservicescenter``.
 
 Instalación
 ===========
@@ -72,10 +80,14 @@ https://github.com/canaimagnulinux/canaimagnulinux.web.locales/contributors
 .. _`plone.app.ldap`: https://pypi.python.org/pypi/plone.app.ldap
 .. _`plone.app.caching`: https://pypi.python.org/pypi/plone.app.caching
 .. _`plone.app.dexterity`: https://pypi.python.org/pypi/plone.app.dexterity
+.. _`plone.schemaeditor`: https://pypi.python.org/pypi/plone.schemaeditor
+.. _`plone.app.discussion`: https://pypi.python.org/pypi/plone.app.discussion
 .. _`plone.app.caching`: https://pypi.python.org/pypi/plone.app.caching
 .. _`quintagroup.analytics`: https://pypi.python.org/pypi/quintagroup.analytics
 .. _`collective.nitf`: https://github.com/collective/collective.nitf
 .. _`collective.geo.settings`: https://pypi.python.org/pypi/collective.geo.settings
 .. _`pas.plugins.velruse`: https://pypi.python.org/pypi/pas.plugins.velruse
+.. _`Products.PloneServicesCenter`: https://pypi.python.org/pypi/Products.PloneServicesCenter
+.. _`Products.TinyMCE`: https://pypi.python.org/pypi/Products.TinyMCE
 .. _`repositorio CanaimaGNULinux`: https://github.com/CanaimaGNULinux/canaimagnulinux.web.locales
 .. _apertura de un ticket de soporte: https://github.com/CanaimaGNULinux/canaimagnulinux.web.locales/issues
