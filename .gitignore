@@ -11,6 +11,8 @@
 *.swp
 *.wpr
 .*.cfg
+.coverage
+.eggs
 .installed.cfg
 .mr.developer.cfg
 .hg/
@@ -18,14 +20,17 @@
 .svn/
 .project
 .pydevproject
+*.sublime-*
 bin/
 build/
 develop-eggs/
+dist/
 downloads/
 eggs/
 fake-eggs/
+htmlcov/
 parts/
-dist/
+src/
 var/
 
 
