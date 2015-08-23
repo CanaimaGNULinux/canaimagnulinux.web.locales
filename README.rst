@@ -1,20 +1,20 @@
 .. -*- coding: utf-8 -*-
 
-.. image:: https://d2weczhvl823v0.cloudfront.net/CanaimaGNULinux/canaimagnulinux.web.locales/trend.png
-   :alt: Bitdeli badge
-   :target: https://bitdeli.com/free
+canaimagnulinux.web.locales
+===========================
 
 .. contents:: Tabla de Contenidos
+   :depth: 2
 
 Introducción
-============
+------------
 
 Este producto contiene las `localizaciones`_ de paquetes para 
 `sitio web del proyecto Canaima GNU/Linux`_. Esto permite sobreescribir 
 las traducciones al Español de Venezuela de ciertos productos Plone.
 
 Características
-===============
+---------------
 
 - Contiene las localizaciones al Español Venezuela (es-VE) de los siguientes
   paquetes:
@@ -43,28 +43,77 @@ Características
 
   - Producto `Products.PloneServicesCenter`_ para el dominio ``ploneservicescenter``.
 
+Creación
+--------
+
+Este producto fue creado por la comunidad Canaima y Plone Venezuela, en varias sesiones a distancia entre fines de semanas horas nocturnas de trabajo y Capapas Canaima:
+
+http://canaima.softwarelibre.gob.ve/
+
+https://plone.org/countries/ve
+
+¡Especial agradecimiento a Flamel Canto, Jin Kadaba y Leonardo J. Caballero G.!
+
 Instalación
-===========
+-----------
 
 Usted puede leer el archivo ``INSTALL.txt`` dentro del directorio ``docs`` de
 este paquete.
 
 Descargas
-=========
+---------
 
 Usted puede encontrar la versión de desarrollo del paquete ``canaimagnulinux.web.locales``
 en el `repositorio CanaimaGNULinux`_ en GitHub.com.
 
 ¿Tienes una idea?, ¿Encontraste un error? Háganos saber mediante la `apertura de un ticket de soporte`_.
 
+Contribuye
+----------
+
+- Seguimiento de incidencia: http://github.com/CanaimaGNULinux/canaimagnulinux.web.locales/issues
+
+- Cogido fuente: http://github.com/CanaimaGNULinux/canaimagnulinux.web.locales
+
+- Sitio web: http://canaima.softwarelibre.gob.ve/
+
+Soporte
+-------
+
+Si usted tiene alguna incidencia, por favor, hágalo saber a nosotros, enviando un ticket con el reporte http://github.com/CanaimaGNULinux/canaimagnulinux.web.locales/issues
+
+Licencia
+--------
+
+Este proyecto esta licenciado bajo la GNU General Public License v2 (GPLv2).
+
+----
+
+Calidad del proyecto
+--------------------
+
+Sobre todo este producto es inofensivo!!!
+
+.. image:: https://secure.travis-ci.org/CanaimaGNULinux/canaimagnulinux.web.locales.png?branch=master
+    :alt: Travis CI badge
+    :target: http://travis-ci.org/CanaimaGNULinux/canaimagnulinux.web.locales
+
+.. image:: https://coveralls.io/repos/CanaimaGNULinux/canaimagnulinux.web.locales/badge.png?branch=master
+    :alt: Coveralls badge
+    :target: https://coveralls.io/r/CanaimaGNULinux/canaimagnulinux.web.locales
+
+.. image:: https://d2weczhvl823v0.cloudfront.net/CanaimaGNULinux/canaimagnulinux.web.locales/trend.png
+   :alt: Bitdeli badge
+   :target: https://bitdeli.com/free
+
 
 Autor(es) Original(es)
-======================
+----------------------
 
 * Leonardo J .Caballero G. aka macagua
 
 Colaboraciones impresionantes
-=============================
+-----------------------------
 
 * Flamel Canto aka flamelcanto
 
