@@ -98,9 +98,9 @@ Sobre todo este producto es inofensivo!!!
     :alt: Travis CI badge
     :target: http://travis-ci.org/CanaimaGNULinux/canaimagnulinux.web.locales
 
-.. image:: https://coveralls.io/repos/CanaimaGNULinux/canaimagnulinux.web.locales/badge.png?branch=master
+.. image:: https://coveralls.io/repos/CanaimaGNULinux/canaimagnulinux.web.locales/badge.svg?branch=master&service=github
     :alt: Coveralls badge
-    :target: https://coveralls.io/r/CanaimaGNULinux/canaimagnulinux.web.locales
+    :target: https://coveralls.io/github/CanaimaGNULinux/canaimagnulinux.web.locales?branch=master
 
 .. image:: https://d2weczhvl823v0.cloudfront.net/CanaimaGNULinux/canaimagnulinux.web.locales/trend.png
    :alt: Bitdeli badge
