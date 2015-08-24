@@ -39,6 +39,13 @@ setup(name='canaimagnulinux.web.locales',
       include_package_data=True,
       zip_safe=False,
       install_requires=[
-        'setuptools',
+          'setuptools',
+          # -*- Extra requirements: -*-
         ],
+      extras_require={
+          'test': [
+              'plone.app.testing >=4.2.2',
+              'plone.testing',
+          ],
+      },
       )

@@ -1,14 +1,30 @@
 language: python
 python: 2.7
+sudo: false
+cache:
+  directories:
+    - eggs
+env:
+  matrix:
+    - PLONE_VERSION=4.3
 install:
-  - mkdir -p buildout-cache/downloads
-  - python bootstrap.py -c travis.cfg -v 2.2.1
-  - bin/buildout -c travis.cfg -N
+  - sed -ie "s#test-4.3#test-$PLONE_VERSION#" buildout.cfg
+  - sed -ie "s#versions-4.3#versions-$PLONE_VERSION#" buildout.cfg
+  - python bootstrap.py
+  - bin/buildout annotate
+  - bin/buildout -Nq
 script:
-  - bin/i18n canaimagnulinux.wizard
-  - bin/i18n canaimagnulinux.userdata
-  - bin/i18n plone
+  - bin/i18nextract canaimagnulinux.wizard
+  - bin/i18nextract canaimagnulinux.userdata
+#  - bin/i18nextract plone
   - bin/test
+after_success:
+  - bin/createcoverage -t "--layer=!Robot"
+  - pip install -q coveralls
+  - coveralls
+after_failure:
+  - bin/buildout annotate
+  - firefox -v
 #notifications:
 #  email:
 #    recipients:
