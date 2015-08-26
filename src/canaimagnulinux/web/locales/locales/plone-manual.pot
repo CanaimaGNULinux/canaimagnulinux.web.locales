@@ -1,0 +1,471 @@
+# Héctor Velarde <hector.velarde@gmail.com>, 2012.
+# Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2014, 2015.
+msgid ""
+msgstr ""
+"Project-Id-Version: canaimagnulinux.web.locales\n"
+"POT-Creation-Date: 2011-09-11 18:59+0000\n"
+"PO-Revision-Date: 2011-12-29 19:39-0600\n"
+"Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
+"Language-Team: ES <LL@li.org>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language-Code: es\n"
+"Language-Name: Spanish\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Domain: plone\n"
+"X-Is-Fallback-For: es-ar es-bo es-cl es-co es-cr es-do es-ec es-es es-sv es-gt es-hn es-mx es-ni es-pa es-py es-pe es-pr es-us es-uy es-ve\n"
+
+#: collective/nitf/profiles/default/portal_atct.xml
+msgid "Author"
+msgstr ""
+
+#: collective/nitf/profiles/default/portal_atct.xml
+msgid "Named section where the article appears"
+msgstr ""
+
+#: collective/nitf/profiles/default/portal_atct.xml
+msgid "News importance"
+msgstr ""
+
+#: collective/nitf/profiles/default/portal_atct.xml
+msgid "Subordinate headline of the article"
+msgstr ""
+
+#: collective/nitf/profiles/default/portal_atct.xml
+msgid "Subtitle"
+msgstr ""
+
+########### PloneServicesCenter
+
+#. Default: "A company or organization that offers Plone services."
+#: ../profiles/default/types/Provider.xml
+msgid "A company or organization that offers Plone services."
+msgstr ""
+
+#. Default: "A link to media coverage of Plone."
+#: ../profiles/default/types/Buzz.xml
+msgid "A link to media coverage of Plone."
+msgstr ""
+
+#: ../profiles/default/workflows/public_workflow/definition.xml
+msgid "A publication workflow for Buzz and SiteUsingPlone objects"
+msgstr ""
+
+#: ../profiles/default/workflows/plonenet_folder_workflow/definition.xml
+msgid "A publication workflow for BuzzFolder, CaseStudyFolder, ProviderFolder and SiteUsingPloneFolder objects"
+msgstr ""
+
+#: ../profiles/default/workflows/plonenet_workflow/definition.xml
+msgid "A publication workflow for Plone.net content"
+msgstr ""
+
+#. Default: "A service that offers the Plone services companies or organizations."
+#: ../profiles/default/types/Services.xml
+msgid "A service that offers the Plone services companies or organizations."
+msgstr ""
+
+#: ../profiles/default/types/BuzzFolder.xml
+msgid "Buzz Folder"
+msgstr ""
+
+#: ../profiles/default/types/CaseStudyFolder.xml
+msgid "Case Study Folder"
+msgstr ""
+
+#. Default: "Case study"
+#: ../profiles/default/types/CaseStudy.xml
+msgid "Case study"
+msgstr ""
+
+#: ../profiles/default/workflows/public_workflow/definition.xml
+#: ../profiles/default/workflows/supporter_workflow/definition.xml
+msgid "Draft"
+msgstr ""
+
+#: ../profiles/default/workflows/plonenet_workflow/definition.xml
+msgid "Draft (not visible)"
+msgstr ""
+
+#: ../profiles/default/workflows/plonenet_folder_workflow/definition.xml
+msgid "Every member can make this item private"
+msgstr ""
+
+#: ../profiles/default/workflows/plonenet_folder_workflow/definition.xml
+msgid "Every member can make this item visible"
+msgstr ""
+
+#: ../profiles/default/workflows/plonenet_folder_workflow/definition.xml
+msgid "Folder Workflow"
+msgstr ""
+
+#. Default: "Folder for Plone buzz items."
+#: ../profiles/default/types/BuzzFolder.xml
+msgid "Folder for Plone buzz items."
+msgstr ""
+
+#. Default: "Folder for Services."
+#: ../profiles/default/types/ServicesFolder.xml
+msgid "Folder for Services."
+msgstr ""
+
+#. Default: "Folder for case studies."
+#: ../profiles/default/types/CaseStudyFolder.xml
+msgid "Folder for case studies."
+msgstr ""
+
+#. Default: "Folder for providers."
+#: ../profiles/default/types/ProviderFolder.xml
+msgid "Folder for providers."
+msgstr ""
+
+#. Default: "Folder for sites using Plone."
+#: ../profiles/default/types/SiteUsingPloneFolder.xml
+msgid "Folder for sites using Plone."
+msgstr ""
+
+#: ../profiles/default/workflows/plonenet_workflow/definition.xml
+#: ../profiles/default/workflows/public_workflow/definition.xml
+#: ../profiles/default/workflows/supporter_workflow/definition.xml
+msgid "If you submitted the item by mistake or want to perform additional edits, this will take it back."
+msgstr ""
+
+#: ../profiles/default/workflows/plonenet_folder_workflow/definition.xml
+msgid "Make private"
+msgstr ""
+
+#: ../profiles/default/workflows/plonenet_folder_workflow/definition.xml
+msgid "Make this item private"
+msgstr ""
+
+#: ../profiles/default/workflows/plonenet_folder_workflow/definition.xml
+#: ../profiles/default/workflows/supporter_workflow/definition.xml
+msgid "Make visible"
+msgstr ""
+
+#: ../profiles/default/workflows/supporter_workflow/definition.xml
+msgid "Manager suspends content"
+msgstr ""
+
+#: ../profiles/default/workflows/supporter_workflow/definition.xml
+msgid "Managers can suspend this item content."
+msgstr ""
+
+#. Default: "Media Coverage"
+#: ../profiles/default/types/Buzz.xml
+msgid "Media Coverage"
+msgstr ""
+
+#: ../profiles/default/workflows/supporter_workflow/definition.xml
+msgid "Member can makes this item content will be visible"
+msgstr ""
+
+#: ../profiles/default/workflows/plonenet_folder_workflow/definition.xml
+msgid "Member makes content private"
+msgstr ""
+
+#: ../profiles/default/workflows/plonenet_folder_workflow/definition.xml
+#: ../profiles/default/workflows/supporter_workflow/definition.xml
+msgid "Member makes content visible"
+msgstr ""
+
+#: ../profiles/default/workflows/plonenet_workflow/definition.xml
+#: ../profiles/default/workflows/public_workflow/definition.xml
+#: ../profiles/default/workflows/supporter_workflow/definition.xml
+msgid "Member requests publishing"
+msgstr ""
+
+#: ../profiles/default/workflows/plonenet_folder_workflow/definition.xml
+#: ../profiles/default/workflows/plonenet_workflow/definition.xml
+#: ../profiles/default/workflows/public_workflow/definition.xml
+msgid "Member retracts submission"
+msgstr ""
+
+#: ../profiles/default/workflows/plonenet_folder_workflow/definition.xml
+msgid "Members can publish the items to reviewer users for his approbation"
+msgstr ""
+
+#: ../profiles/default/workflows/plonenet_folder_workflow/definition.xml
+msgid "Members can retract his submission"
+msgstr ""
+
+#: ../profiles/default/workflows/plonenet_workflow/definition.xml
+#: ../profiles/default/workflows/public_workflow/definition.xml
+#: ../profiles/default/workflows/supporter_workflow/definition.xml
+msgid "Pending"
+msgstr ""
+
+#: ../profiles/default/workflows/plonenet_workflow/definition.xml
+msgid "Plone.net content workflow"
+msgstr ""
+
+#: ../profiles/default/workflows/plonenet_folder_workflow/definition.xml
+msgid "Private"
+msgstr ""
+
+#. Default: "Provider"
+#: ../profiles/default/types/Provider.xml
+msgid "Provider"
+msgstr ""
+
+#: ../profiles/default/types/ProviderFolder.xml
+msgid "Provider Folder"
+msgstr ""
+
+#: ../profiles/default/workflows/plonenet_folder_workflow/definition.xml
+msgid "Public Draft"
+msgstr ""
+
+#: ../profiles/default/workflows/public_workflow/definition.xml
+msgid "Public Workflow"
+msgstr ""
+
+#: ../profiles/default/workflows/plonenet_folder_workflow/definition.xml
+msgid "Public this item as a Draft"
+msgstr ""
+
+#: ../profiles/default/workflows/plonenet_folder_workflow/definition.xml
+#: ../profiles/default/workflows/plonenet_workflow/definition.xml
+#: ../profiles/default/workflows/public_workflow/definition.xml
+msgid "Publish"
+msgstr ""
+
+#: ../profiles/default/workflows/plonenet_folder_workflow/definition.xml
+#: ../profiles/default/workflows/plonenet_workflow/definition.xml
+#: ../profiles/default/workflows/public_workflow/definition.xml
+msgid "Published"
+msgstr ""
+
+#: ../profiles/default/workflows/plonenet_workflow/definition.xml
+#: ../profiles/default/workflows/public_workflow/definition.xml
+#: ../profiles/default/workflows/supporter_workflow/definition.xml
+msgid "Publishing the item makes it visible to other users."
+msgstr ""
+
+#: ../profiles/default/workflows/plonenet_workflow/definition.xml
+#: ../profiles/default/workflows/public_workflow/definition.xml
+#: ../profiles/default/workflows/supporter_workflow/definition.xml
+msgid "Puts your item in a review queue, so it can be published on the site."
+msgstr ""
+
+#: ../profiles/default/workflows/plonenet_workflow/definition.xml
+#: ../profiles/default/workflows/public_workflow/definition.xml
+#: ../profiles/default/workflows/supporter_workflow/definition.xml
+msgid "Reject"
+msgstr ""
+
+#: ../profiles/default/workflows/plonenet_folder_workflow/definition.xml
+#: ../profiles/default/workflows/plonenet_workflow/definition.xml
+#: ../profiles/default/workflows/public_workflow/definition.xml
+msgid "Retract"
+msgstr ""
+
+#: ../profiles/default/workflows/plonenet_folder_workflow/definition.xml
+#: ../profiles/default/workflows/plonenet_workflow/definition.xml
+#: ../profiles/default/workflows/public_workflow/definition.xml
+msgid "Reviewer publishes content"
+msgstr ""
+
+#: ../profiles/default/workflows/plonenet_workflow/definition.xml
+#: ../profiles/default/workflows/public_workflow/definition.xml
+#: ../profiles/default/workflows/supporter_workflow/definition.xml
+msgid "Reviewer rejects submission"
+msgstr ""
+
+#: ../profiles/default/workflows/plonenet_workflow/definition.xml
+#: ../profiles/default/workflows/public_workflow/definition.xml
+#: ../profiles/default/workflows/supporter_workflow/definition.xml
+msgid "Sending the item back will return the item to the original author instead of publishing it. You should preferably include a reason for why it was not published."
+msgstr ""
+
+#. Default: "Services"
+#: ../profiles/default/types/Services.xml
+msgid "Services"
+msgstr ""
+
+#. Default: "ServicesFolder"
+#: ../profiles/default/types/ServicesFolder.xml
+msgid "ServicesFolder"
+msgstr ""
+
+#. Default: "Shows off a Plone site or project built for a customer."
+#: ../profiles/default/types/CaseStudy.xml
+msgid "Shows off a Plone site or project built for a customer."
+msgstr ""
+
+#: ../profiles/default/types/SiteUsingPloneFolder.xml
+msgid "Site Using Plone Folder"
+msgstr ""
+
+#. Default: "Site using Plone"
+#: ../profiles/default/types/SiteUsingPlone.xml
+msgid "Site using Plone"
+msgstr ""
+
+#. Default: "Site using Plone. Not a full case study, but just a description and URL."
+#: ../profiles/default/types/SiteUsingPlone.xml
+msgid "Site using Plone. Not a full case study, but just a description and URL."
+msgstr ""
+
+#: ../profiles/default/workflows/plonenet_workflow/definition.xml
+#: ../profiles/default/workflows/public_workflow/definition.xml
+#: ../profiles/default/workflows/supporter_workflow/definition.xml
+msgid "Submit"
+msgstr ""
+
+#: ../profiles/default/workflows/supporter_workflow/definition.xml
+msgid "Supporter Workflow"
+msgstr ""
+
+#: ../profiles/default/workflows/supporter_workflow/definition.xml
+msgid "Suspend"
+msgstr ""
+
+#: ../profiles/default/workflows/supporter_workflow/definition.xml
+msgid "Suspended"
+msgstr ""
+
+#: ../profiles/default/workflows/plonenet_workflow/definition.xml
+msgid "This item is a Draft, but its not visible to everyone."
+msgstr ""
+
+#: ../profiles/default/workflows/plonenet_folder_workflow/definition.xml
+msgid "This item was Published"
+msgstr ""
+
+#: ../profiles/default/workflows/supporter_workflow/definition.xml
+msgid "This item was suspended."
+msgstr ""
+
+#: ../profiles/default/workflows/public_workflow/definition.xml
+#: ../profiles/default/workflows/supporter_workflow/definition.xml
+msgid "Visible to everyone, but not approved by the reviewers."
+msgstr ""
+
+#: ../profiles/default/workflows/plonenet_workflow/definition.xml
+#: ../profiles/default/workflows/public_workflow/definition.xml
+msgid "Visible to everyone, not editable by the owner."
+msgstr ""
+
+#: ../profiles/default/workflows/plonenet_workflow/definition.xml
+#: ../profiles/default/workflows/public_workflow/definition.xml
+#: ../profiles/default/workflows/supporter_workflow/definition.xml
+msgid "Waiting to be reviewed, not editable by the owner."
+msgstr ""
+
+#. Default: "All recent changes…"
+#: ../skins/plone_services_center/portlet_recent.pt:52
+msgid "box_more_recently_changed"
+msgstr ""
+
+#. Default: "Recent Changes"
+#: ../skins/plone_services_center/portlet_recent.pt:15
+msgid "box_recent_changes"
+msgstr ""
+
+#. Default: "${box_recent_changes_rss_img} <span>Subscribe to updates</span>"
+#: ../skins/plone_services_center/portlet_rss.pt:23
+msgid "box_recent_changes_title"
+msgstr ""
+
+#. Default: "No items changed yet."
+#: ../skins/plone_services_center/portlet_recent.pt:45
+msgid "box_recent_no_items"
+msgstr ""
+
+#. Default: "RSS Feed"
+#: ../skins/plone_services_center/portlet_rss.pt:12
+msgid "portlet_rss_title"
+msgstr ""
+
+########### plone.app.discussion
+
+#: ../profiles/default/workflows/comment_review_workflow/definition.xml
+msgid "A simple review workflow for comments"
+msgstr ""
+
+#: ../profiles/default/workflows/comment_review_workflow/definition.xml
+msgid "Approve"
+msgstr ""
+
+#: ../profiles/default/workflows/comment_review_workflow/definition.xml
+msgid "Approving the comment makes it visible to other users."
+msgstr ""
+
+#: ../profiles/default/types/Discussion_Item.xml
+msgid "Comment"
+msgstr ""
+
+#: ../profiles/default/workflows/comment_review_workflow/definition.xml
+msgid "Comment Review Workflow"
+msgstr ""
+
+#: ../profiles/default/workflows/comment_review_workflow/definition.xml
+msgid "Comment about the last transition"
+msgstr ""
+
+#: ../profiles/default/portal_atct.xml
+msgid "Commentators"
+msgstr ""
+
+#: ../profiles/default/types/Discussion_Item.xml
+msgid "Comments added to a content item."
+msgstr ""
+
+#: ../profiles/default/controlpanel.xml
+msgid "Discussion"
+msgstr ""
+
+#: ../profiles/default/actions.xml
+msgid "Moderate comments"
+msgstr ""
+
+#: ../profiles/default/workflows/comment_review_workflow/definition.xml
+msgid "Pending"
+msgstr ""
+
+#: ../profiles/default/workflows/comment_review_workflow/definition.xml
+msgid "Previous transition"
+msgstr ""
+
+#: ../profiles/default/workflows/comment_review_workflow/definition.xml
+msgid "Provides access to workflow history"
+msgstr ""
+
+#: ../profiles/default/workflows/comment_review_workflow/definition.xml
+msgid "Published"
+msgstr ""
+
+#: ../profiles/default/workflows/comment_review_workflow/definition.xml
+msgid "Reviewer approves content"
+msgstr ""
+
+#: ../profiles/default/workflows/comment_review_workflow/definition.xml
+msgid "Submitted, pending review."
+msgstr ""
+
+#: ../profiles/default/workflows/comment_review_workflow/definition.xml
+msgid "The ID of the user who performed the previous transition"
+msgstr ""
+
+#: ../profiles/default/portal_atct.xml
+msgid "Total number of comments"
+msgstr ""
+
+#: ../profiles/default/portal_atct.xml
+msgid "Total number of comments on this item."
+msgstr ""
+
+#: ../profiles/default/portal_atct.xml
+msgid "Users who have commented on the item"
+msgstr ""
+
+#: ../profiles/default/workflows/comment_review_workflow/definition.xml
+msgid "Visible to everyone, non-editable."
+msgstr ""
+
+#: ../profiles/default/workflows/comment_review_workflow/definition.xml
+msgid "When the previous transition was performed"
+msgstr ""
