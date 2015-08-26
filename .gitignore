@@ -21,6 +21,7 @@
 .project
 .pydevproject
 *.sublime-*
+rebuild_i18n.log
 bin/
 build/
 develop-eggs/
