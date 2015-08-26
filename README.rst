@@ -43,6 +43,30 @@ Características
 
   - Producto `Products.PloneServicesCenter`_ para el dominio ``ploneservicescenter``.
 
+Uso de scripts
+--------------
+
+Para generar y mezclar las traducciones, hay tres (03) dominios, ejecute los siguientes comando:
+
+::
+
+    bin/i18nextract plone
+    bin/i18nextract canaimagnulinux.wizard
+    bin/i18nextract canaimagnulinux.userdata
+
+Para analizar las platillas ZPT para buscar traducciones perdidas, ejecute el siguiente comando:
+
+::
+
+    bin/i18ncheck canaimagnulinux.wizard
+
+
+Usted puede enviar el nombre de la plantilla como un parámetro, sin la ruta, ejecute el siguiente comando:
+
+::
+
+    bin/i18ncheck canaimagnulinux.wizard intro.pt
+
 Creación
 --------
 
