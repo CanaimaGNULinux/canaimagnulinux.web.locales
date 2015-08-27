@@ -19,29 +19,33 @@ Características
 - Contiene las localizaciones al Español Venezuela (es-VE) de los siguientes
   paquetes:
 
-  - Producto `z3c.form`_ para el dominio ``z3c.form``.
+  - Producto `canaimagnulinux.userdata`_ para el dominio ``canaimagnulinux.userdata``.
 
-  - Producto `plone.app.ldap`_ para el dominio ``plone.app.ldap``.
+  - Producto `canaimagnulinux.wizard`_ para el dominio ``canaimagnulinux.wizard``.
+
+  - Producto `collective.geo.settings`_ para el dominio ``collective.geo.settings``.
+
+  - Producto `collective.nitf`_ para los dominios ``collective.nitf`` y ``plone``.
+
+  - Producto `pas.plugins.velruse`_ para el dominio ``pas.plugins.velruse``.
 
   - Producto `plone.app.caching`_ para el dominio ``plone.app.caching``.
 
   - Producto `plone.app.dexterity`_ para el dominio ``plone.app.dexterity``.
 
+  - Producto `plone.app.discussion`_ para el dominio ``plone.app.discussion``.
+
+  - Producto `plone.app.ldap`_ para el dominio ``plone.app.ldap``.
+
   - Producto `plone.schemaeditor`_ para el dominio ``plone.schemaeditor``.
 
-  - Producto `plone.app.discussion`_ para el dominio ``plone.app.discussion``.
+  - Producto `Products.PloneServicesCenter`_ para el dominio ``ploneservicescenter``.
 
   - Producto `quintagroup.analytics`_ para el dominio ``quintagroup.analytics``.
 
-  - Producto `collective.nitf`_ para los dominios ``collective.nitf`` y ``plone``.
-
-  - Producto `collective.geo.settings`_ para el dominio ``collective.geo.settings``.
-
-  - Producto `pas.plugins.velruse`_ para el dominio ``pas.plugins.velruse``.
-
   - Producto `Products.TinyMCE`_ para el dominio ``tinymce``.
 
-  - Producto `Products.PloneServicesCenter`_ para el dominio ``ploneservicescenter``.
+  - Producto `z3c.form`_ para el dominio ``z3c.form``.
 
 Uso de scripts
 --------------
@@ -51,8 +55,8 @@ Para generar y mezclar las traducciones, hay tres (03) dominios, ejecute los sig
 ::
 
     bin/i18nextract plone
-    bin/i18nextract canaimagnulinux.wizard
     bin/i18nextract canaimagnulinux.userdata
+    bin/i18nextract canaimagnulinux.wizard
 
 Para analizar las platillas ZPT para buscar traducciones perdidas, ejecute el siguiente comando:
 
@@ -149,18 +153,19 @@ https://github.com/canaimagnulinux/canaimagnulinux.web.locales/contributors
 
 .. _`sitio web del proyecto Canaima GNU/Linux`: http://canaima.softwarelibre.gob.ve/
 .. _`localizaciones`: http://es.wikipedia.org/wiki/Internacionalización_y_localización
-.. _`z3c.form`: https://pypi.python.org/pypi/z3c.form
-.. _`plone.app.ldap`: https://pypi.python.org/pypi/plone.app.ldap
+.. _`canaimagnulinux.userdata`: https://github.com/CanaimaGNULinux/canaimagnulinux.userdata
+.. _`canaimagnulinux.wizard`: https://github.com/CanaimaGNULinux/canaimagnulinux.wizard
+.. _`collective.geo.settings`: https://pypi.python.org/pypi/collective.geo.settings
+.. _`collective.nitf`: https://github.com/collective/collective.nitf
+.. _`pas.plugins.velruse`: https://pypi.python.org/pypi/pas.plugins.velruse
 .. _`plone.app.caching`: https://pypi.python.org/pypi/plone.app.caching
 .. _`plone.app.dexterity`: https://pypi.python.org/pypi/plone.app.dexterity
-.. _`plone.schemaeditor`: https://pypi.python.org/pypi/plone.schemaeditor
 .. _`plone.app.discussion`: https://pypi.python.org/pypi/plone.app.discussion
-.. _`plone.app.caching`: https://pypi.python.org/pypi/plone.app.caching
-.. _`quintagroup.analytics`: https://pypi.python.org/pypi/quintagroup.analytics
-.. _`collective.nitf`: https://github.com/collective/collective.nitf
-.. _`collective.geo.settings`: https://pypi.python.org/pypi/collective.geo.settings
-.. _`pas.plugins.velruse`: https://pypi.python.org/pypi/pas.plugins.velruse
+.. _`plone.app.ldap`: https://pypi.python.org/pypi/plone.app.ldap
+.. _`plone.schemaeditor`: https://pypi.python.org/pypi/plone.schemaeditor
 .. _`Products.PloneServicesCenter`: https://pypi.python.org/pypi/Products.PloneServicesCenter
+.. _`quintagroup.analytics`: https://pypi.python.org/pypi/quintagroup.analytics
 .. _`Products.TinyMCE`: https://pypi.python.org/pypi/Products.TinyMCE
+.. _`z3c.form`: https://pypi.python.org/pypi/z3c.form
 .. _`repositorio CanaimaGNULinux`: https://github.com/CanaimaGNULinux/canaimagnulinux.web.locales
 .. _apertura de un ticket de soporte: https://github.com/CanaimaGNULinux/canaimagnulinux.web.locales/issues
